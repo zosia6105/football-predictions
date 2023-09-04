@@ -1,0 +1,763 @@
+date,year,team,opponent,goals_scored,goals_conceded,tournament,city,country,neutral,elo_rating,conti_code,conti_name,outcome,all_goals,venue,venue_code,opp_code,conti_code_cat
+1930-07-13,1930.0,Belgium,United States,0.0,3.0,FIFA World Cup,Montevideo,Uruguay,True,1591.0,SA,South America,0,3.0,neutral,1,27,5
+1930-07-13,1930.0,France,Mexico,4.0,1.0,FIFA World Cup,Montevideo,Uruguay,True,1567.0,SA,South America,1,5.0,neutral,1,15,5
+1930-07-15,1930.0,Argentina,France,1.0,0.0,FIFA World Cup,Montevideo,Uruguay,True,2062.0,SA,South America,1,1.0,neutral,1,10,5
+1930-07-19,1930.0,Argentina,Mexico,6.0,3.0,FIFA World Cup,Montevideo,Uruguay,True,2062.0,SA,South America,1,9.0,neutral,1,15,5
+1930-07-26,1930.0,Argentina,United States,6.0,1.0,FIFA World Cup,Montevideo,Uruguay,True,2062.0,SA,South America,1,7.0,neutral,1,27,5
+1930-07-30,1930.0,Uruguay,Argentina,4.0,2.0,FIFA World Cup,Montevideo,Uruguay,False,2038.0,SA,South America,1,6.0,home,0,0,5
+1934-03-11,1934.0,Spain,Portugal,9.0,0.0,FIFA World Cup qualification,Madrid,Spain,False,1968.0,EU,Europe,1,9.0,home,0,18,2
+1934-03-18,1934.0,Portugal,Spain,1.0,2.0,FIFA World Cup qualification,Lisbon,Portugal,False,1671.0,EU,Europe,0,3.0,home,0,24,2
+1934-04-29,1934.0,Belgium,Netherlands,2.0,4.0,FIFA World Cup qualification,Antwerp,Belgium,False,1527.0,EU,Europe,0,6.0,home,0,16,2
+1934-05-24,1934.0,Mexico,United States,2.0,4.0,FIFA World Cup qualification,Rome,Italy,True,1579.0,EU,Europe,0,6.0,neutral,1,27,2
+1934-05-27,1934.0,Netherlands,Switzerland,2.0,3.0,FIFA World Cup,Milan,Italy,True,1686.0,EU,Europe,0,5.0,neutral,1,25,2
+1934-05-27,1934.0,Brazil,Spain,1.0,3.0,FIFA World Cup,Genoa,Italy,True,1863.0,EU,Europe,0,4.0,neutral,1,24,2
+1934-05-27,1934.0,Belgium,Germany,2.0,5.0,FIFA World Cup,Florence,Italy,True,1527.0,EU,Europe,0,7.0,neutral,1,11,2
+1938-04-03,1938.0,Belgium,Netherlands,1.0,1.0,FIFA World Cup qualification,Antwerp,Belgium,False,1540.0,EU,Europe,2,2.0,home,0,16,2
+1938-05-01,1938.0,Switzerland,Portugal,2.0,1.0,FIFA World Cup qualification,Milan,Italy,True,1708.0,EU,Europe,1,3.0,neutral,1,18,2
+1938-06-04,1938.0,Germany,Switzerland,1.0,1.0,FIFA World Cup,Paris,France,True,1772.0,EU,Europe,2,2.0,neutral,1,25,2
+1938-06-05,1938.0,Brazil,Poland,6.0,5.0,FIFA World Cup,Strasbourg,France,True,1936.0,EU,Europe,1,11.0,neutral,1,17,2
+1938-06-05,1938.0,France,Belgium,3.0,1.0,FIFA World Cup,Colombes,France,False,1639.0,EU,Europe,1,4.0,home,0,2,2
+1938-06-09,1938.0,Germany,Switzerland,2.0,4.0,FIFA World Cup,Paris,France,True,1772.0,EU,Europe,0,6.0,neutral,1,25,2
+1949-09-04,1949.0,Mexico,United States,6.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1817.0,NA,North America,1,6.0,home,0,27,3
+1949-09-18,1949.0,Mexico,United States,6.0,2.0,FIFA World Cup qualification,Mexico City,Mexico,False,1817.0,NA,North America,1,8.0,home,0,27,3
+1949-10-15,1949.0,Wales,England,1.0,4.0,FIFA World Cup qualification,Cardiff,Wales,False,1759.0,EU,Europe,0,5.0,home,0,9,2
+1950-04-02,1950.0,Spain,Portugal,5.0,1.0,FIFA World Cup qualification,Madrid,Spain,False,1867.0,EU,Europe,1,6.0,home,0,18,2
+1950-04-09,1950.0,Portugal,Spain,2.0,2.0,FIFA World Cup qualification,Oeiras,Portugal,False,1684.0,EU,Europe,2,4.0,home,0,24,2
+1950-06-24,1950.0,Brazil,Mexico,4.0,0.0,FIFA World Cup,Rio de Janeiro,Brazil,False,2014.0,SA,South America,1,4.0,home,0,15,5
+1950-06-25,1950.0,Spain,United States,3.0,1.0,FIFA World Cup,Curitiba,Brazil,True,1867.0,SA,South America,1,4.0,neutral,1,27,5
+1950-06-28,1950.0,Brazil,Switzerland,2.0,2.0,FIFA World Cup,São Paulo,Brazil,False,2014.0,SA,South America,2,4.0,home,0,25,5
+1950-06-29,1950.0,England,United States,0.0,1.0,FIFA World Cup,Belo Horizonte,Brazil,True,1994.0,SA,South America,0,1.0,neutral,1,27,5
+1950-07-02,1950.0,England,Spain,0.0,1.0,FIFA World Cup,Rio de Janeiro,Brazil,True,1994.0,SA,South America,0,1.0,neutral,1,24,5
+1950-07-02,1950.0,Mexico,Switzerland,1.0,2.0,FIFA World Cup,Porto Alegre,Brazil,True,1718.0,SA,South America,0,3.0,neutral,1,25,5
+1950-07-09,1950.0,Spain,Uruguay,2.0,2.0,FIFA World Cup,São Paulo,Brazil,True,1867.0,SA,South America,2,4.0,neutral,1,28,5
+1950-07-13,1950.0,Brazil,Spain,6.0,1.0,FIFA World Cup,Rio de Janeiro,Brazil,False,2014.0,SA,South America,1,7.0,home,0,24,5
+1950-07-16,1950.0,Brazil,Uruguay,1.0,2.0,FIFA World Cup,Rio de Janeiro,Brazil,False,2014.0,SA,South America,0,3.0,home,0,28,5
+1953-10-10,1953.0,Wales,England,1.0,4.0,FIFA World Cup qualification,Cardiff,Wales,False,1761.0,EU,Europe,0,5.0,home,0,9,2
+1954-01-10,1954.0,Mexico,United States,4.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1655.0,NA,North America,1,4.0,home,0,27,3
+1954-01-14,1954.0,Mexico,United States,3.0,1.0,FIFA World Cup qualification,Mexico City,Mexico,False,1655.0,NA,North America,1,4.0,home,0,27,3
+1954-03-07,1954.0,Japan,South Korea,1.0,5.0,FIFA World Cup qualification,Tokyo,Japan,False,1317.0,AS,Asia,0,6.0,home,0,23,1
+1954-03-14,1954.0,Japan,South Korea,2.0,2.0,FIFA World Cup qualification,Tokyo,Japan,False,1317.0,AS,Asia,2,4.0,home,0,23,1
+1954-06-16,1954.0,Brazil,Mexico,5.0,0.0,FIFA World Cup,Geneva,Switzerland,True,2010.0,EU,Europe,1,5.0,neutral,1,15,2
+1954-06-17,1954.0,Belgium,England,4.0,4.0,FIFA World Cup,Basel,Switzerland,True,1779.0,EU,Europe,2,8.0,neutral,1,9,2
+1954-06-19,1954.0,France,Mexico,3.0,2.0,FIFA World Cup,Geneva,Switzerland,True,1798.0,EU,Europe,1,5.0,neutral,1,15,2
+1954-06-20,1954.0,Switzerland,England,0.0,2.0,FIFA World Cup,Berne,Switzerland,False,1726.0,EU,Europe,0,2.0,home,0,9,2
+1954-06-26,1954.0,England,Uruguay,2.0,4.0,FIFA World Cup,Basel,Switzerland,True,1997.0,EU,Europe,0,6.0,neutral,1,28,2
+1956-11-11,1956.0,France,Belgium,6.0,3.0,FIFA World Cup qualification,Colombes,France,False,1853.0,EU,Europe,1,9.0,home,0,2,2
+1956-12-05,1956.0,England,Denmark,5.0,2.0,FIFA World Cup qualification,Wolverhampton,England,False,1999.0,EU,Europe,1,7.0,home,0,7,2
+1957-03-10,1957.0,Spain,Switzerland,2.0,2.0,FIFA World Cup qualification,Madrid,Spain,False,1872.0,EU,Europe,2,4.0,home,0,25,2
+1957-04-07,1957.0,Mexico,United States,6.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1778.0,NA,North America,1,6.0,home,0,27,3
+1957-04-28,1957.0,United States,Mexico,2.0,7.0,FIFA World Cup qualification,Long Beach,United States,False,1460.0,NA,North America,0,9.0,home,0,15,3
+1957-05-15,1957.0,Denmark,England,1.0,4.0,FIFA World Cup qualification,Copenhagen,Denmark,False,1570.0,EU,Europe,0,5.0,home,0,9,2
+1957-06-22,1957.0,Canada,United States,5.0,1.0,FIFA World Cup qualification,Toronto,Canada,False,1620.0,NA,North America,1,6.0,home,0,27,3
+1957-06-30,1957.0,Mexico,Canada,3.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1778.0,NA,North America,1,3.0,home,0,4,3
+1957-07-03,1957.0,Mexico,Canada,2.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1778.0,NA,North America,1,2.0,home,0,4,3
+1957-07-06,1957.0,United States,Canada,2.0,3.0,FIFA World Cup qualification,St. Louis,United States,False,1460.0,NA,North America,0,5.0,home,0,4,3
+1957-10-20,1957.0,Mexico,Costa Rica,2.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1778.0,NA,North America,1,2.0,home,0,5,3
+1957-10-27,1957.0,Belgium,France,0.0,0.0,FIFA World Cup qualification,Brussels,Belgium,False,1678.0,EU,Europe,2,0.0,home,0,10,2
+1957-10-27,1957.0,Costa Rica,Mexico,1.0,1.0,FIFA World Cup qualification,San José,Costa Rica,False,1783.0,NA,North America,2,2.0,home,0,15,3
+1957-11-24,1957.0,Switzerland,Spain,1.0,4.0,FIFA World Cup qualification,Lausanne,Switzerland,False,1629.0,EU,Europe,0,5.0,home,0,24,2
+1958-06-08,1958.0,Argentina,Germany,1.0,3.0,FIFA World Cup,Malmö,Sweden,True,1919.0,EU,Europe,0,4.0,neutral,1,11,2
+1958-06-11,1958.0,Mexico,Wales,1.0,1.0,FIFA World Cup,Solna,Sweden,True,1723.0,EU,Europe,2,2.0,neutral,1,29,2
+1958-06-11,1958.0,Brazil,England,0.0,0.0,FIFA World Cup,Gothenburg,Sweden,True,2139.0,EU,Europe,2,0.0,neutral,1,9,2
+1958-06-19,1958.0,Brazil,Wales,1.0,0.0,FIFA World Cup,Gothenburg,Sweden,True,2139.0,EU,Europe,1,1.0,neutral,1,29,2
+1958-06-24,1958.0,Brazil,France,5.0,2.0,FIFA World Cup,Solna,Sweden,True,2139.0,EU,Europe,1,7.0,neutral,1,10,2
+1958-06-28,1958.0,France,Germany,6.0,3.0,FIFA World Cup,Gothenburg,Sweden,True,1933.0,EU,Europe,1,9.0,neutral,1,11,2
+1960-11-06,1960.0,United States,Mexico,3.0,3.0,FIFA World Cup qualification,Los Angeles,United States,False,1463.0,NA,North America,2,6.0,home,0,15,3
+1960-11-06,1960.0,South Korea,Japan,2.0,1.0,FIFA World Cup qualification,Seoul,South Korea,False,1712.0,AS,Asia,1,3.0,home,0,14,1
+1960-11-13,1960.0,Mexico,United States,3.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1811.0,NA,North America,1,3.0,home,0,27,3
+1960-11-20,1960.0,Belgium,Switzerland,2.0,4.0,FIFA World Cup qualification,Brussels,Belgium,False,1598.0,EU,Europe,0,6.0,home,0,25,2
+1960-12-04,1960.0,Ecuador,Argentina,3.0,6.0,FIFA World Cup qualification,Guayaquil,Ecuador,False,1321.0,SA,South America,0,9.0,home,0,0,5
+1960-12-17,1960.0,Argentina,Ecuador,5.0,0.0,FIFA World Cup qualification,Buenos Aires,Argentina,False,2014.0,SA,South America,1,5.0,home,0,8,5
+1961-03-22,1961.0,Costa Rica,Mexico,1.0,0.0,FIFA World Cup qualification,San José,Costa Rica,False,1705.0,NA,North America,1,1.0,home,0,15,3
+1961-04-12,1961.0,Mexico,Costa Rica,4.0,1.0,FIFA World Cup qualification,Mexico City,Mexico,False,1807.0,NA,North America,1,5.0,home,0,5,3
+1961-04-19,1961.0,Wales,Spain,1.0,2.0,FIFA World Cup qualification,Cardiff,Wales,False,1795.0,EU,Europe,0,3.0,home,0,24,2
+1961-05-18,1961.0,Spain,Wales,1.0,1.0,FIFA World Cup qualification,Madrid,Spain,False,1961.0,EU,Europe,2,2.0,home,0,29,2
+1961-05-20,1961.0,Switzerland,Belgium,2.0,1.0,FIFA World Cup qualification,Lausanne,Switzerland,False,1721.0,EU,Europe,1,3.0,home,0,2,2
+1961-05-21,1961.0,Portugal,England,1.0,1.0,FIFA World Cup qualification,Oeiras,Portugal,False,1646.0,EU,Europe,2,2.0,home,0,9,2
+1961-06-11,1961.0,Japan,South Korea,0.0,2.0,FIFA World Cup qualification,Tokyo,Japan,False,1324.0,AS,Asia,0,2.0,home,0,23,1
+1961-10-25,1961.0,England,Portugal,2.0,0.0,FIFA World Cup qualification,London,England,False,1938.0,EU,Europe,1,2.0,home,0,18,2
+1962-05-30,1962.0,Brazil,Mexico,2.0,0.0,FIFA World Cup,Viña del Mar,Chile,True,2193.0,SA,South America,1,2.0,neutral,1,15,5
+1962-06-02,1962.0,Argentina,England,1.0,3.0,FIFA World Cup,Rancagua,Chile,True,1960.0,SA,South America,0,4.0,neutral,1,9,5
+1962-06-03,1962.0,Mexico,Spain,0.0,1.0,FIFA World Cup,Viña del Mar,Chile,True,1847.0,SA,South America,0,1.0,neutral,1,24,5
+1962-06-06,1962.0,Brazil,Spain,2.0,1.0,FIFA World Cup,Viña del Mar,Chile,True,2193.0,SA,South America,1,3.0,neutral,1,24,5
+1962-06-10,1962.0,Brazil,England,3.0,1.0,FIFA World Cup,Viña del Mar,Chile,True,2193.0,SA,South America,1,4.0,neutral,1,9,5
+1964-10-21,1964.0,Denmark,Wales,1.0,0.0,FIFA World Cup qualification,Copenhagen,Denmark,False,1625.0,EU,Europe,1,1.0,home,0,29,2
+1965-03-07,1965.0,United States,Mexico,2.0,2.0,FIFA World Cup qualification,Los Angeles,United States,False,1470.0,NA,North America,2,4.0,home,0,15,3
+1965-03-12,1965.0,Mexico,United States,2.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1870.0,NA,North America,1,2.0,home,0,27,3
+1965-04-25,1965.0,Costa Rica,Mexico,0.0,0.0,FIFA World Cup qualification,San José,Costa Rica,False,1749.0,NA,North America,2,0.0,home,0,15,3
+1965-05-16,1965.0,Mexico,Costa Rica,1.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1870.0,NA,North America,1,1.0,home,0,5,3
+1965-10-17,1965.0,Netherlands,Switzerland,0.0,0.0,FIFA World Cup qualification,Amsterdam,Netherlands,False,1642.0,EU,Europe,2,0.0,home,0,25,2
+1965-11-14,1965.0,Switzerland,Netherlands,2.0,1.0,FIFA World Cup qualification,Berne,Switzerland,False,1635.0,EU,Europe,1,3.0,home,0,16,2
+1965-12-01,1965.0,Wales,Denmark,4.0,2.0,FIFA World Cup qualification,Wrexham,Wales,False,1759.0,EU,Europe,1,6.0,home,0,7,2
+1966-07-11,1966.0,England,Uruguay,0.0,0.0,FIFA World Cup,London,England,False,2088.0,EU,Europe,2,0.0,home,0,28,2
+1966-07-13,1966.0,France,Mexico,1.0,1.0,FIFA World Cup,London,England,True,1736.0,EU,Europe,2,2.0,neutral,1,15,2
+1966-07-13,1966.0,Argentina,Spain,2.0,1.0,FIFA World Cup,Birmingham,England,True,1981.0,EU,Europe,1,3.0,neutral,1,24,2
+1966-07-15,1966.0,Spain,Switzerland,2.0,1.0,FIFA World Cup,Sheffield,England,True,1863.0,EU,Europe,1,3.0,neutral,1,25,2
+1966-07-15,1966.0,France,Uruguay,1.0,2.0,FIFA World Cup,London,England,True,1736.0,EU,Europe,0,3.0,neutral,1,28,2
+1966-07-16,1966.0,England,Mexico,2.0,0.0,FIFA World Cup,London,England,False,2088.0,EU,Europe,1,2.0,home,0,15,2
+1966-07-16,1966.0,Argentina,Germany,0.0,0.0,FIFA World Cup,Birmingham,England,True,1981.0,EU,Europe,2,0.0,neutral,1,11,2
+1966-07-19,1966.0,Mexico,Uruguay,0.0,0.0,FIFA World Cup,London,England,True,1842.0,EU,Europe,2,0.0,neutral,1,28,2
+1966-07-19,1966.0,Argentina,Switzerland,2.0,0.0,FIFA World Cup,Sheffield,England,True,1981.0,EU,Europe,1,2.0,neutral,1,25,2
+1966-07-19,1966.0,Brazil,Portugal,1.0,3.0,FIFA World Cup,Liverpool,England,True,1918.0,EU,Europe,0,4.0,neutral,1,18,2
+1966-07-20,1966.0,England,France,2.0,0.0,FIFA World Cup,London,England,False,2088.0,EU,Europe,1,2.0,home,0,10,2
+1966-07-23,1966.0,England,Argentina,1.0,0.0,FIFA World Cup,London,England,False,2088.0,EU,Europe,1,1.0,home,0,0,2
+1966-07-26,1966.0,England,Portugal,2.0,1.0,FIFA World Cup,London,England,False,2088.0,EU,Europe,1,3.0,home,0,18,2
+1966-07-30,1966.0,England,Germany,4.0,2.0,FIFA World Cup,London,England,False,2088.0,EU,Europe,1,6.0,home,0,11,2
+1968-10-13,1968.0,Canada,United States,4.0,2.0,FIFA World Cup qualification,Toronto,Canada,False,1608.0,NA,North America,1,6.0,home,0,27,3
+1968-11-03,1968.0,United States,Canada,1.0,0.0,FIFA World Cup qualification,Atlanta,United States,False,1515.0,NA,North America,1,1.0,home,0,4,3
+1968-12-11,1968.0,Spain,Belgium,1.0,1.0,FIFA World Cup qualification,Madrid,Spain,False,1862.0,EU,Europe,2,2.0,home,0,2,2
+1969-02-23,1969.0,Belgium,Spain,2.0,1.0,FIFA World Cup qualification,Liège,Belgium,False,1779.0,EU,Europe,1,3.0,home,0,24,2
+1969-04-16,1969.0,Portugal,Switzerland,0.0,2.0,FIFA World Cup qualification,Lisbon,Portugal,False,1808.0,EU,Europe,0,2.0,home,0,25,2
+1969-05-07,1969.0,Netherlands,Poland,1.0,0.0,FIFA World Cup qualification,Rotterdam,Netherlands,False,1707.0,EU,Europe,1,1.0,home,0,17,2
+1969-07-06,1969.0,Ecuador,Uruguay,0.0,2.0,FIFA World Cup qualification,Guayaquil,Ecuador,False,1444.0,SA,South America,0,2.0,home,0,28,5
+1969-07-20,1969.0,Uruguay,Ecuador,1.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1861.0,SA,South America,1,1.0,home,0,8,5
+1969-09-07,1969.0,Poland,Netherlands,2.0,1.0,FIFA World Cup qualification,Chorzów,Poland,False,1781.0,EU,Europe,1,3.0,home,0,16,2
+1969-10-10,1969.0,Japan,Australia,1.0,3.0,FIFA World Cup qualification,Seoul,South Korea,True,1597.0,AS,Asia,0,4.0,neutral,1,1,1
+1969-10-12,1969.0,South Korea,Japan,2.0,2.0,FIFA World Cup qualification,Seoul,South Korea,False,1599.0,AS,Asia,2,4.0,home,0,14,1
+1969-10-14,1969.0,South Korea,Australia,1.0,2.0,FIFA World Cup qualification,Seoul,South Korea,False,1599.0,AS,Asia,0,3.0,home,0,1,1
+1969-10-16,1969.0,Australia,Japan,1.0,1.0,FIFA World Cup qualification,Seoul,South Korea,True,1631.0,AS,Asia,2,2.0,neutral,1,14,1
+1969-10-18,1969.0,South Korea,Japan,2.0,0.0,FIFA World Cup qualification,Seoul,South Korea,False,1599.0,AS,Asia,1,2.0,home,0,14,1
+1969-10-20,1969.0,South Korea,Australia,1.0,1.0,FIFA World Cup qualification,Seoul,South Korea,False,1599.0,AS,Asia,2,2.0,home,0,1,1
+1969-11-02,1969.0,Switzerland,Portugal,1.0,1.0,FIFA World Cup qualification,Berne,Switzerland,False,1649.0,EU,Europe,2,2.0,home,0,18,2
+1970-06-07,1970.0,Brazil,England,1.0,0.0,FIFA World Cup,Guadalajara,Mexico,True,2175.0,NA,North America,1,1.0,neutral,1,9,3
+1970-06-11,1970.0,Mexico,Belgium,1.0,0.0,FIFA World Cup,Mexico City,Mexico,False,1730.0,NA,North America,1,1.0,home,0,2,3
+1970-06-14,1970.0,England,Germany,2.0,3.0,FIFA World Cup,León,Mexico,True,2036.0,NA,North America,0,5.0,neutral,1,11,3
+1970-06-17,1970.0,Brazil,Uruguay,3.0,1.0,FIFA World Cup,Guadalajara,Mexico,True,2175.0,NA,North America,1,4.0,neutral,1,28,3
+1972-11-15,1972.0,Wales,England,0.0,1.0,FIFA World Cup qualification,Cardiff,Wales,False,1642.0,EU,Europe,0,1.0,home,0,9,2
+1972-11-19,1972.0,Belgium,Netherlands,0.0,0.0,FIFA World Cup qualification,Antwerp,Belgium,False,1856.0,EU,Europe,2,0.0,home,0,16,2
+1973-01-24,1973.0,England,Wales,1.0,1.0,FIFA World Cup qualification,London,England,False,1977.0,EU,Europe,2,2.0,home,0,29,2
+1973-03-28,1973.0,Wales,Poland,2.0,0.0,FIFA World Cup qualification,Cardiff,Wales,False,1649.0,EU,Europe,1,2.0,home,0,17,2
+1973-06-06,1973.0,Poland,England,2.0,0.0,FIFA World Cup qualification,Chorzów,Poland,False,1964.0,EU,Europe,1,2.0,home,0,9,2
+1973-07-01,1973.0,Ecuador,Uruguay,1.0,2.0,FIFA World Cup qualification,Quito,Ecuador,False,1441.0,SA,South America,0,3.0,home,0,28,5
+1973-07-08,1973.0,Uruguay,Ecuador,4.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1763.0,SA,South America,1,4.0,home,0,8,5
+1973-08-18,1973.0,Australia,Iran,3.0,0.0,FIFA World Cup qualification,Sydney,Australia,False,1682.0,OC,Oceania,1,3.0,home,0,13,4
+1973-08-24,1973.0,Iran,Australia,2.0,0.0,FIFA World Cup qualification,Tehran,Iran,False,1600.0,AS,Asia,1,2.0,home,0,1,1
+1973-09-26,1973.0,Poland,Wales,3.0,0.0,FIFA World Cup qualification,Chorzów,Poland,False,1964.0,EU,Europe,1,3.0,home,0,29,2
+1973-10-17,1973.0,England,Poland,1.0,1.0,FIFA World Cup qualification,London,England,False,1977.0,EU,Europe,2,2.0,home,0,17,2
+1973-10-28,1973.0,Australia,South Korea,0.0,0.0,FIFA World Cup qualification,Sydney,Australia,False,1682.0,OC,Oceania,2,0.0,home,0,23,4
+1973-11-10,1973.0,South Korea,Australia,2.0,2.0,FIFA World Cup qualification,Seoul,South Korea,False,1625.0,AS,Asia,2,4.0,home,0,1,1
+1973-11-13,1973.0,Australia,South Korea,1.0,0.0,FIFA World Cup qualification,So Kon Po,Hong Kong,True,1682.0,AS,Asia,1,1.0,neutral,1,23,1
+1973-11-18,1973.0,Netherlands,Belgium,0.0,0.0,FIFA World Cup qualification,Amsterdam,Netherlands,False,1830.0,EU,Europe,2,0.0,home,0,2,2
+1974-06-15,1974.0,Poland,Argentina,3.0,2.0,FIFA World Cup,Stuttgart,Germany,True,2030.0,EU,Europe,1,5.0,neutral,1,0,2
+1974-06-15,1974.0,Uruguay,Netherlands,0.0,2.0,FIFA World Cup,Hanover,Germany,True,1698.0,EU,Europe,0,2.0,neutral,1,16,2
+1974-06-26,1974.0,Netherlands,Argentina,4.0,0.0,FIFA World Cup,Gelsenkirchen,Germany,True,2088.0,EU,Europe,1,4.0,neutral,1,0,2
+1974-06-30,1974.0,Argentina,Brazil,1.0,2.0,FIFA World Cup,Hanover,Germany,True,1857.0,EU,Europe,0,3.0,neutral,1,3,2
+1974-07-03,1974.0,Netherlands,Brazil,2.0,0.0,FIFA World Cup,Dortmund,Germany,True,2088.0,EU,Europe,1,2.0,neutral,1,3,2
+1974-07-06,1974.0,Brazil,Poland,0.0,1.0,FIFA World Cup,Munich,Germany,True,2035.0,EU,Europe,0,1.0,neutral,1,17,2
+1976-10-16,1976.0,Portugal,Poland,0.0,2.0,FIFA World Cup qualification,Porto,Portugal,False,1828.0,EU,Europe,0,2.0,home,0,17,2
+1976-11-17,1976.0,Portugal,Denmark,1.0,0.0,FIFA World Cup qualification,Lisbon,Portugal,False,1828.0,EU,Europe,1,1.0,home,0,7,2
+1977-01-07,1977.0,Saudi Arabia,Iran,0.0,3.0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False,1338.0,AS,Asia,0,3.0,home,0,13,1
+1977-03-26,1977.0,Belgium,Netherlands,0.0,2.0,FIFA World Cup qualification,Antwerp,Belgium,False,1793.0,EU,Europe,0,2.0,home,0,16,2
+1977-03-26,1977.0,Japan,South Korea,0.0,0.0,FIFA World Cup qualification,Tokyo,Japan,False,1449.0,AS,Asia,2,0.0,home,0,23,1
+1977-04-03,1977.0,South Korea,Japan,1.0,0.0,FIFA World Cup qualification,Seoul,South Korea,False,1725.0,AS,Asia,1,1.0,home,0,14,1
+1977-04-22,1977.0,Iran,Saudi Arabia,2.0,0.0,FIFA World Cup qualification,Shiraz,Iran,False,1776.0,AS,Asia,1,2.0,home,0,20,1
+1977-05-01,1977.0,Denmark,Poland,1.0,2.0,FIFA World Cup qualification,Copenhagen,Denmark,False,1641.0,EU,Europe,0,3.0,home,0,17,2
+1977-07-03,1977.0,South Korea,Iran,0.0,0.0,FIFA World Cup qualification,Busan,South Korea,False,1725.0,AS,Asia,2,0.0,home,0,13,1
+1977-08-14,1977.0,Australia,Iran,0.0,1.0,FIFA World Cup qualification,Melbourne,Australia,False,1659.0,OC,Oceania,0,1.0,home,0,13,4
+1977-08-27,1977.0,Australia,South Korea,2.0,1.0,FIFA World Cup qualification,Sydney,Australia,False,1659.0,OC,Oceania,1,3.0,home,0,23,4
+1977-09-21,1977.0,Poland,Denmark,4.0,1.0,FIFA World Cup qualification,Chorzów,Poland,False,1915.0,EU,Europe,1,5.0,home,0,7,2
+1977-10-09,1977.0,Denmark,Portugal,2.0,4.0,FIFA World Cup qualification,Copenhagen,Denmark,False,1641.0,EU,Europe,0,6.0,home,0,18,2
+1977-10-23,1977.0,South Korea,Australia,0.0,0.0,FIFA World Cup qualification,Seoul,South Korea,False,1725.0,AS,Asia,2,0.0,home,0,1,1
+1977-10-26,1977.0,Netherlands,Belgium,1.0,0.0,FIFA World Cup qualification,Amsterdam,Netherlands,False,2075.0,EU,Europe,1,1.0,home,0,2,2
+1977-10-29,1977.0,Poland,Portugal,1.0,1.0,FIFA World Cup qualification,Chorzów,Poland,False,1915.0,EU,Europe,2,2.0,home,0,18,2
+1977-11-11,1977.0,Iran,South Korea,2.0,2.0,FIFA World Cup qualification,Tehran,Iran,False,1776.0,AS,Asia,2,4.0,home,0,23,1
+1977-11-25,1977.0,Iran,Australia,1.0,0.0,FIFA World Cup qualification,Tehran,Iran,False,1776.0,AS,Asia,1,1.0,home,0,1,1
+1978-06-02,1978.0,Mexico,Tunisia,1.0,3.0,FIFA World Cup,Rosario,Argentina,True,1704.0,SA,South America,0,4.0,neutral,1,26,5
+1978-06-03,1978.0,Iran,Netherlands,0.0,3.0,FIFA World Cup,Mendoza,Argentina,True,1727.0,SA,South America,0,3.0,neutral,1,16,5
+1978-06-06,1978.0,Argentina,France,2.0,1.0,FIFA World Cup,Buenos Aires,Argentina,False,2038.0,SA,South America,1,3.0,home,0,10,5
+1978-06-06,1978.0,Poland,Tunisia,1.0,0.0,FIFA World Cup,Rosario,Argentina,True,1931.0,SA,South America,1,1.0,neutral,1,26,5
+1978-06-07,1978.0,Brazil,Spain,0.0,0.0,FIFA World Cup,Mar del Plata,Argentina,True,2141.0,SA,South America,2,0.0,neutral,1,24,5
+1978-06-10,1978.0,Mexico,Poland,1.0,3.0,FIFA World Cup,Rosario,Argentina,True,1704.0,SA,South America,0,4.0,neutral,1,17,5
+1978-06-14,1978.0,Argentina,Poland,2.0,0.0,FIFA World Cup,Rosario,Argentina,False,2038.0,SA,South America,1,2.0,home,0,17,5
+1978-06-18,1978.0,Argentina,Brazil,0.0,0.0,FIFA World Cup,Rosario,Argentina,False,2038.0,SA,South America,2,0.0,home,0,3,5
+1978-06-21,1978.0,Brazil,Poland,3.0,1.0,FIFA World Cup,Mendoza,Argentina,True,2141.0,SA,South America,1,4.0,neutral,1,17,5
+1978-06-25,1978.0,Argentina,Netherlands,3.0,1.0,FIFA World Cup,Buenos Aires,Argentina,False,2038.0,SA,South America,1,4.0,home,0,16,5
+1980-11-19,1980.0,England,Switzerland,2.0,1.0,FIFA World Cup qualification,London,England,False,1998.0,EU,Europe,1,3.0,home,0,25,2
+1980-11-19,1980.0,Belgium,Netherlands,1.0,0.0,FIFA World Cup qualification,Brussels,Belgium,False,1951.0,EU,Europe,1,1.0,home,0,16,2
+1981-03-25,1981.0,Netherlands,France,1.0,0.0,FIFA World Cup qualification,Rotterdam,Netherlands,False,1911.0,EU,Europe,1,1.0,home,0,10,2
+1981-03-31,1981.0,Saudi Arabia,Qatar,1.0,0.0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False,1398.0,AS,Asia,1,1.0,home,0,19,1
+1981-04-29,1981.0,France,Belgium,3.0,2.0,FIFA World Cup qualification,Paris,France,False,1894.0,EU,Europe,1,5.0,home,0,2,2
+1981-05-30,1981.0,Switzerland,England,2.0,1.0,FIFA World Cup qualification,Basel,Switzerland,False,1661.0,EU,Europe,1,3.0,home,0,9,2
+1981-09-09,1981.0,Belgium,France,2.0,0.0,FIFA World Cup qualification,Brussels,Belgium,False,1915.0,EU,Europe,1,2.0,home,0,10,2
+1981-10-14,1981.0,Netherlands,Belgium,3.0,0.0,FIFA World Cup qualification,Rotterdam,Netherlands,False,1911.0,EU,Europe,1,3.0,home,0,2,2
+1981-11-18,1981.0,France,Netherlands,2.0,0.0,FIFA World Cup qualification,Paris,France,False,1894.0,EU,Europe,1,2.0,home,0,16,2
+1982-06-13,1982.0,Argentina,Belgium,0.0,1.0,FIFA World Cup,Barcelona,Spain,True,1940.0,EU,Europe,0,1.0,neutral,1,2,2
+1982-06-16,1982.0,England,France,3.0,1.0,FIFA World Cup,Bilbao,Spain,True,2017.0,EU,Europe,1,4.0,neutral,1,10,2
+1982-06-28,1982.0,Poland,Belgium,3.0,0.0,FIFA World Cup,Barcelona,Spain,True,1985.0,EU,Europe,1,3.0,neutral,1,2,2
+1982-07-02,1982.0,Spain,Germany,1.0,2.0,FIFA World Cup,Madrid,Spain,False,1836.0,EU,Europe,0,3.0,home,0,11,2
+1982-07-02,1982.0,Argentina,Brazil,1.0,3.0,FIFA World Cup,Barcelona,Spain,True,1940.0,EU,Europe,0,4.0,neutral,1,3,2
+1982-07-05,1982.0,Spain,England,0.0,0.0,FIFA World Cup,Madrid,Spain,False,1836.0,EU,Europe,2,0.0,home,0,9,2
+1982-07-10,1982.0,Poland,France,3.0,2.0,FIFA World Cup,Alicante,Spain,True,1985.0,EU,Europe,1,5.0,neutral,1,10,2
+1984-10-17,1984.0,Spain,Wales,3.0,0.0,FIFA World Cup qualification,Seville,Spain,False,1872.0,EU,Europe,1,3.0,home,0,29,2
+1984-10-17,1984.0,Switzerland,Denmark,1.0,0.0,FIFA World Cup qualification,Berne,Switzerland,False,1764.0,EU,Europe,1,1.0,home,0,7,2
+1985-02-24,1985.0,Portugal,Germany,1.0,2.0,FIFA World Cup qualification,Oeiras,Portugal,False,1830.0,EU,Europe,0,3.0,home,0,11,2
+1985-03-10,1985.0,Uruguay,Ecuador,2.0,1.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1860.0,SA,South America,1,3.0,home,0,8,5
+1985-03-31,1985.0,Ecuador,Uruguay,0.0,2.0,FIFA World Cup qualification,Quito,Ecuador,False,1533.0,SA,South America,0,2.0,home,0,28,5
+1985-04-30,1985.0,Wales,Spain,3.0,0.0,FIFA World Cup qualification,Wrexham,Wales,False,1790.0,EU,Europe,1,3.0,home,0,24,2
+1985-05-01,1985.0,Belgium,Poland,2.0,0.0,FIFA World Cup qualification,Brussels,Belgium,False,1842.0,EU,Europe,1,2.0,home,0,17,2
+1985-09-11,1985.0,Poland,Belgium,0.0,0.0,FIFA World Cup qualification,Chorzów,Poland,False,1814.0,EU,Europe,2,0.0,home,0,2,2
+1985-10-09,1985.0,Denmark,Switzerland,0.0,0.0,FIFA World Cup qualification,Copenhagen,Denmark,False,1929.0,EU,Europe,2,0.0,home,0,25,2
+1985-10-16,1985.0,Belgium,Netherlands,1.0,0.0,FIFA World Cup qualification,Brussels,Belgium,False,1842.0,EU,Europe,1,1.0,home,0,16,2
+1985-10-26,1985.0,Japan,South Korea,1.0,2.0,FIFA World Cup qualification,Tokyo,Japan,False,1487.0,AS,Asia,0,3.0,home,0,23,1
+1985-11-03,1985.0,South Korea,Japan,1.0,0.0,FIFA World Cup qualification,Seoul,South Korea,False,1635.0,AS,Asia,1,1.0,home,0,14,1
+1985-11-20,1985.0,Netherlands,Belgium,2.0,1.0,FIFA World Cup qualification,Rotterdam,Netherlands,False,1872.0,EU,Europe,1,3.0,home,0,2,2
+1986-06-01,1986.0,Spain,Brazil,0.0,1.0,FIFA World Cup,Guadalajara,Mexico,True,1993.0,NA,North America,0,1.0,neutral,1,3,3
+1986-06-01,1986.0,Canada,France,0.0,1.0,FIFA World Cup,León,Mexico,True,1577.0,NA,North America,0,1.0,neutral,1,10,3
+1986-06-02,1986.0,Argentina,South Korea,3.0,1.0,FIFA World Cup,Mexico City,Mexico,True,2039.0,NA,North America,1,4.0,neutral,1,23,3
+1986-06-03,1986.0,Mexico,Belgium,2.0,1.0,FIFA World Cup,Mexico City,Mexico,False,1880.0,NA,North America,1,3.0,home,0,2,3
+1986-06-03,1986.0,Portugal,England,1.0,0.0,FIFA World Cup,Monterrey,Mexico,True,1760.0,NA,North America,1,1.0,neutral,1,9,3
+1986-06-04,1986.0,Uruguay,Germany,1.0,1.0,FIFA World Cup,Querétaro,Mexico,True,1776.0,NA,North America,2,2.0,neutral,1,11,3
+1986-06-07,1986.0,Poland,Portugal,1.0,0.0,FIFA World Cup,Monterrey,Mexico,True,1780.0,NA,North America,1,1.0,neutral,1,18,3
+1986-06-08,1986.0,Denmark,Uruguay,6.0,1.0,FIFA World Cup,Nezahualcóyotl,Mexico,True,1933.0,NA,North America,1,7.0,neutral,1,28,3
+1986-06-11,1986.0,England,Poland,3.0,0.0,FIFA World Cup,Monterrey,Mexico,True,1978.0,NA,North America,1,3.0,neutral,1,17,3
+1986-06-13,1986.0,Denmark,Germany,2.0,0.0,FIFA World Cup,Querétaro,Mexico,True,1933.0,NA,North America,1,2.0,neutral,1,11,3
+1986-06-16,1986.0,Argentina,Uruguay,1.0,0.0,FIFA World Cup,Puebla,Mexico,True,2039.0,NA,North America,1,1.0,neutral,1,28,3
+1986-06-16,1986.0,Brazil,Poland,4.0,0.0,FIFA World Cup,Guadalajara,Mexico,True,2014.0,NA,North America,1,4.0,neutral,1,17,3
+1986-06-18,1986.0,Denmark,Spain,1.0,5.0,FIFA World Cup,Querétaro,Mexico,True,1933.0,NA,North America,0,6.0,neutral,1,24,3
+1986-06-21,1986.0,Brazil,France,1.0,1.0,FIFA World Cup,Guadalajara,Mexico,True,2014.0,NA,North America,2,2.0,neutral,1,10,3
+1986-06-21,1986.0,Mexico,Germany,0.0,0.0,FIFA World Cup,Monterrey,Mexico,False,1880.0,NA,North America,2,0.0,home,0,11,3
+1986-06-22,1986.0,Argentina,England,2.0,1.0,FIFA World Cup,Mexico City,Mexico,True,2039.0,NA,North America,1,3.0,neutral,1,9,3
+1986-06-22,1986.0,Spain,Belgium,1.0,1.0,FIFA World Cup,Puebla,Mexico,True,1993.0,NA,North America,2,2.0,neutral,1,2,3
+1986-06-25,1986.0,Argentina,Belgium,2.0,0.0,FIFA World Cup,Mexico City,Mexico,True,2039.0,NA,North America,1,2.0,neutral,1,2,3
+1986-06-25,1986.0,France,Germany,0.0,2.0,FIFA World Cup,Guadalajara,Mexico,True,1941.0,NA,North America,0,2.0,neutral,1,11,3
+1986-06-28,1986.0,France,Belgium,4.0,2.0,FIFA World Cup,Puebla,Mexico,True,1941.0,NA,North America,1,6.0,neutral,1,2,3
+1986-06-29,1986.0,Argentina,Germany,3.0,2.0,FIFA World Cup,Mexico City,Mexico,True,2039.0,NA,North America,1,5.0,neutral,1,11,3
+1988-09-14,1988.0,Netherlands,Wales,1.0,0.0,FIFA World Cup qualification,Amsterdam,Netherlands,False,2046.0,EU,Europe,1,1.0,home,0,29,2
+1988-10-19,1988.0,Belgium,Switzerland,1.0,0.0,FIFA World Cup qualification,Brussels,Belgium,False,1802.0,EU,Europe,1,1.0,home,0,25,2
+1989-02-15,1989.0,Portugal,Belgium,1.0,1.0,FIFA World Cup qualification,Lisbon,Portugal,False,1777.0,EU,Europe,2,2.0,home,0,2,2
+1989-04-26,1989.0,Netherlands,Germany,1.0,1.0,FIFA World Cup qualification,Rotterdam,Netherlands,False,2047.0,EU,Europe,2,2.0,home,0,11,2
+1989-04-26,1989.0,Portugal,Switzerland,3.0,1.0,FIFA World Cup qualification,Lisbon,Portugal,False,1777.0,EU,Europe,1,4.0,home,0,25,2
+1989-05-31,1989.0,Wales,Germany,0.0,0.0,FIFA World Cup qualification,Cardiff,Wales,False,1733.0,EU,Europe,2,0.0,home,0,11,2
+1989-06-03,1989.0,England,Poland,3.0,0.0,FIFA World Cup qualification,London,England,False,1944.0,EU,Europe,1,3.0,home,0,17,2
+1989-09-06,1989.0,Belgium,Portugal,3.0,0.0,FIFA World Cup qualification,Brussels,Belgium,False,1852.0,EU,Europe,1,3.0,home,0,18,2
+1989-09-20,1989.0,Switzerland,Portugal,1.0,2.0,FIFA World Cup qualification,Neuchâtel,Switzerland,False,1673.0,EU,Europe,0,3.0,home,0,18,2
+1989-10-11,1989.0,Poland,England,0.0,0.0,FIFA World Cup qualification,Chorzów,Poland,False,1791.0,EU,Europe,2,0.0,home,0,9,2
+1989-10-11,1989.0,Switzerland,Belgium,2.0,2.0,FIFA World Cup qualification,Basel,Switzerland,False,1673.0,EU,Europe,2,4.0,home,0,2,2
+1989-10-11,1989.0,Wales,Netherlands,1.0,2.0,FIFA World Cup qualification,Wrexham,Wales,False,1733.0,EU,Europe,0,3.0,home,0,16,2
+1989-10-13,1989.0,South Korea,Qatar,0.0,0.0,FIFA World Cup qualification,Singapore,Singapore,True,1745.0,AS,Asia,2,0.0,neutral,1,19,1
+1989-10-16,1989.0,Qatar,Saudi Arabia,1.0,1.0,FIFA World Cup qualification,Singapore,Singapore,True,1495.0,AS,Asia,2,2.0,neutral,1,20,1
+1989-10-25,1989.0,Saudi Arabia,South Korea,0.0,2.0,FIFA World Cup qualification,Singapore,Singapore,True,1586.0,AS,Asia,0,2.0,neutral,1,23,1
+1990-06-12,1990.0,Belgium,South Korea,2.0,0.0,FIFA World Cup,Verona,Italy,True,1816.0,EU,Europe,1,2.0,neutral,1,23,2
+1990-06-13,1990.0,Uruguay,Spain,0.0,0.0,FIFA World Cup,Udine,Italy,True,1845.0,EU,Europe,2,0.0,neutral,1,24,2
+1990-06-16,1990.0,Brazil,Costa Rica,1.0,0.0,FIFA World Cup,Turin,Italy,True,1957.0,EU,Europe,1,1.0,neutral,1,5,2
+1990-06-16,1990.0,England,Netherlands,0.0,0.0,FIFA World Cup,Cagliari,Italy,True,1989.0,EU,Europe,2,0.0,neutral,1,16,2
+1990-06-17,1990.0,Belgium,Uruguay,3.0,1.0,FIFA World Cup,Verona,Italy,True,1816.0,EU,Europe,1,4.0,neutral,1,28,2
+1990-06-17,1990.0,South Korea,Spain,1.0,3.0,FIFA World Cup,Udine,Italy,True,1721.0,EU,Europe,0,4.0,neutral,1,24,2
+1990-06-21,1990.0,South Korea,Uruguay,0.0,1.0,FIFA World Cup,Udine,Italy,True,1721.0,EU,Europe,0,1.0,neutral,1,28,2
+1990-06-21,1990.0,Belgium,Spain,1.0,2.0,FIFA World Cup,Verona,Italy,True,1816.0,EU,Europe,0,3.0,neutral,1,24,2
+1990-06-24,1990.0,Brazil,Argentina,0.0,1.0,FIFA World Cup,Turin,Italy,True,1957.0,EU,Europe,0,1.0,neutral,1,0,2
+1990-06-24,1990.0,Germany,Netherlands,2.0,1.0,FIFA World Cup,Milan,Italy,True,2080.0,EU,Europe,1,3.0,neutral,1,16,2
+1990-06-26,1990.0,England,Belgium,1.0,0.0,FIFA World Cup,Bologna,Italy,True,1989.0,EU,Europe,1,1.0,neutral,1,2,2
+1990-07-04,1990.0,Germany,England,1.0,1.0,FIFA World Cup,Turin,Italy,True,2080.0,EU,Europe,2,2.0,neutral,1,9,2
+1990-07-08,1990.0,Germany,Argentina,1.0,0.0,FIFA World Cup,Rome,Italy,True,2080.0,EU,Europe,1,1.0,neutral,1,0,2
+1992-10-14,1992.0,Netherlands,Poland,2.0,2.0,FIFA World Cup qualification,Rotterdam,Netherlands,False,1966.0,EU,Europe,2,4.0,home,0,17,2
+1992-11-18,1992.0,Belgium,Wales,2.0,0.0,FIFA World Cup qualification,Brussels,Belgium,False,1874.0,EU,Europe,1,2.0,home,0,29,2
+1992-11-22,1992.0,Mexico,Costa Rica,4.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1786.0,NA,North America,1,4.0,home,0,5,3
+1992-11-29,1992.0,Costa Rica,Mexico,2.0,0.0,FIFA World Cup qualification,San José,Costa Rica,False,1604.0,NA,North America,1,2.0,home,0,15,3
+1993-03-31,1993.0,Denmark,Spain,1.0,0.0,FIFA World Cup qualification,Copenhagen,Denmark,False,1931.0,EU,Europe,1,1.0,home,0,24,2
+1993-03-31,1993.0,Switzerland,Portugal,1.0,1.0,FIFA World Cup qualification,Berne,Switzerland,False,1847.0,EU,Europe,2,2.0,home,0,18,2
+1993-03-31,1993.0,Wales,Belgium,2.0,0.0,FIFA World Cup qualification,Cardiff,Wales,False,1777.0,EU,Europe,1,2.0,home,0,2,2
+1993-04-25,1993.0,Mexico,Canada,4.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1890.0,NA,North America,1,4.0,home,0,4,3
+1993-04-28,1993.0,England,Netherlands,2.0,2.0,FIFA World Cup qualification,London,England,False,1876.0,EU,Europe,2,4.0,home,0,16,2
+1993-05-09,1993.0,Canada,Mexico,1.0,2.0,FIFA World Cup qualification,Toronto,Canada,False,1596.0,NA,North America,0,3.0,home,0,15,3
+1993-05-29,1993.0,Poland,England,1.0,1.0,FIFA World Cup qualification,Chorzów,Poland,False,1692.0,EU,Europe,2,2.0,home,0,9,2
+1993-07-18,1993.0,Ecuador,Brazil,0.0,0.0,FIFA World Cup qualification,Guayaquil,Ecuador,False,1631.0,SA,South America,2,0.0,home,0,3,5
+1993-07-31,1993.0,Canada,Australia,2.0,1.0,FIFA World Cup qualification,Edmonton,Canada,False,1596.0,NA,North America,1,3.0,home,0,1,3
+1993-08-01,1993.0,Uruguay,Ecuador,0.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1796.0,SA,South America,2,0.0,home,0,8,5
+1993-08-15,1993.0,Uruguay,Brazil,1.0,1.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1796.0,SA,South America,2,2.0,home,0,3,5
+1993-08-15,1993.0,Australia,Canada,2.0,1.0,FIFA World Cup qualification,Sydney,Australia,False,1722.0,OC,Oceania,1,3.0,home,0,4,4
+1993-08-22,1993.0,Brazil,Ecuador,2.0,0.0,FIFA World Cup qualification,São Paulo,Brazil,False,1950.0,SA,South America,1,2.0,home,0,8,5
+1993-09-05,1993.0,Ecuador,Uruguay,0.0,1.0,FIFA World Cup qualification,Guayaquil,Ecuador,False,1631.0,SA,South America,0,1.0,home,0,28,5
+1993-09-08,1993.0,England,Poland,3.0,0.0,FIFA World Cup qualification,London,England,False,1876.0,EU,Europe,1,3.0,home,0,17,2
+1993-09-19,1993.0,Brazil,Uruguay,2.0,0.0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False,1950.0,SA,South America,1,2.0,home,0,28,5
+1993-10-13,1993.0,Netherlands,England,2.0,0.0,FIFA World Cup qualification,Rotterdam,Netherlands,False,1994.0,EU,Europe,1,2.0,home,0,9,2
+1993-10-13,1993.0,Portugal,Switzerland,1.0,0.0,FIFA World Cup qualification,Porto,Portugal,False,1828.0,EU,Europe,1,1.0,home,0,25,2
+1993-10-15,1993.0,Saudi Arabia,Japan,0.0,0.0,FIFA World Cup qualification,Doha,Qatar,True,1683.0,AS,Asia,2,0.0,neutral,1,14,1
+1993-10-16,1993.0,Iran,South Korea,0.0,3.0,FIFA World Cup qualification,Doha,Qatar,True,1568.0,AS,Asia,0,3.0,neutral,1,23,1
+1993-10-18,1993.0,Japan,Iran,1.0,2.0,FIFA World Cup qualification,Doha,Qatar,True,1647.0,AS,Asia,0,3.0,neutral,1,13,1
+1993-10-22,1993.0,South Korea,Saudi Arabia,1.0,1.0,FIFA World Cup qualification,Doha,Qatar,True,1659.0,AS,Asia,2,2.0,neutral,1,20,1
+1993-10-25,1993.0,Japan,South Korea,1.0,0.0,FIFA World Cup qualification,Doha,Qatar,True,1647.0,AS,Asia,1,1.0,neutral,1,23,1
+1993-10-28,1993.0,Saudi Arabia,Iran,4.0,3.0,FIFA World Cup qualification,Doha,Qatar,True,1683.0,AS,Asia,1,7.0,neutral,1,13,1
+1993-10-31,1993.0,Australia,Argentina,1.0,1.0,FIFA World Cup qualification,Sydney,Australia,False,1722.0,OC,Oceania,2,2.0,home,0,0,4
+1993-11-17,1993.0,Poland,Netherlands,1.0,3.0,FIFA World Cup qualification,Poznań,Poland,False,1692.0,EU,Europe,0,4.0,home,0,16,2
+1993-11-17,1993.0,Spain,Denmark,1.0,0.0,FIFA World Cup qualification,Seville,Spain,False,1910.0,EU,Europe,1,1.0,home,0,7,2
+1993-11-17,1993.0,Argentina,Australia,1.0,0.0,FIFA World Cup qualification,Buenos Aires,Argentina,False,1928.0,SA,South America,1,1.0,home,0,1,5
+1994-06-17,1994.0,Spain,South Korea,2.0,2.0,FIFA World Cup,Dallas,United States,True,1995.0,NA,North America,2,4.0,neutral,1,23,3
+1994-06-18,1994.0,United States,Switzerland,1.0,1.0,FIFA World Cup,Pontiac,United States,False,1616.0,NA,North America,2,2.0,home,0,25,3
+1994-06-20,1994.0,Netherlands,Saudi Arabia,2.0,1.0,FIFA World Cup,Washington,United States,True,1957.0,NA,North America,1,3.0,neutral,1,20,3
+1994-06-21,1994.0,Germany,Spain,1.0,1.0,FIFA World Cup,Chicago,United States,True,1996.0,NA,North America,2,2.0,neutral,1,24,3
+1994-06-25,1994.0,Belgium,Netherlands,1.0,0.0,FIFA World Cup,Orlando,United States,True,1766.0,NA,North America,1,1.0,neutral,1,16,3
+1994-06-27,1994.0,Germany,South Korea,3.0,2.0,FIFA World Cup,Dallas,United States,True,1996.0,NA,North America,1,5.0,neutral,1,23,3
+1994-06-29,1994.0,Belgium,Saudi Arabia,0.0,1.0,FIFA World Cup,Washington,United States,True,1766.0,NA,North America,0,1.0,neutral,1,20,3
+1994-07-02,1994.0,Germany,Belgium,3.0,2.0,FIFA World Cup,Chicago,United States,True,1996.0,NA,North America,1,5.0,neutral,1,2,3
+1994-07-02,1994.0,Spain,Switzerland,3.0,0.0,FIFA World Cup,Washington,United States,True,1995.0,NA,North America,1,3.0,neutral,1,25,3
+1994-07-04,1994.0,United States,Brazil,0.0,1.0,FIFA World Cup,Palo Alto,United States,False,1616.0,NA,North America,0,1.0,home,0,3,3
+1994-07-09,1994.0,Netherlands,Brazil,2.0,3.0,FIFA World Cup,Dallas,United States,True,1957.0,NA,North America,0,5.0,neutral,1,3,3
+1996-06-02,1996.0,Ecuador,Argentina,2.0,0.0,FIFA World Cup qualification,Quito,Ecuador,False,1689.0,SA,South America,1,2.0,home,0,0,5
+1996-10-05,1996.0,Wales,Netherlands,1.0,3.0,FIFA World Cup qualification,Cardiff,Wales,False,1598.0,EU,Europe,0,4.0,home,0,16,2
+1996-10-09,1996.0,England,Poland,2.0,1.0,FIFA World Cup qualification,London,England,False,1956.0,EU,Europe,1,3.0,home,0,17,2
+1996-11-09,1996.0,Netherlands,Wales,7.0,1.0,FIFA World Cup qualification,Eindhoven,Netherlands,False,1961.0,EU,Europe,1,8.0,home,0,29,2
+1996-12-01,1996.0,Costa Rica,United States,2.0,1.0,FIFA World Cup qualification,San José,Costa Rica,False,1574.0,NA,North America,1,3.0,home,0,27,3
+1996-12-14,1996.0,Spain,Serbia,2.0,0.0,FIFA World Cup qualification,Valencia,Spain,False,2025.0,EU,Europe,1,2.0,home,0,22,2
+1996-12-14,1996.0,United States,Costa Rica,2.0,1.0,FIFA World Cup qualification,Palo Alto,United States,False,1707.0,NA,North America,1,3.0,home,0,5,3
+1996-12-14,1996.0,Belgium,Netherlands,0.0,3.0,FIFA World Cup qualification,Brussels,Belgium,False,1756.0,EU,Europe,0,3.0,home,0,16,2
+1996-12-14,1996.0,Portugal,Germany,0.0,0.0,FIFA World Cup qualification,Lisbon,Portugal,False,1886.0,EU,Europe,2,0.0,home,0,11,2
+1997-01-12,1997.0,Uruguay,Argentina,0.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1755.0,SA,South America,2,0.0,home,0,0,5
+1997-02-12,1997.0,Ecuador,Uruguay,4.0,0.0,FIFA World Cup qualification,Quito,Ecuador,False,1755.0,SA,South America,1,4.0,home,0,28,5
+1997-03-02,1997.0,Mexico,Canada,4.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1787.0,NA,North America,1,4.0,home,0,4,3
+1997-03-16,1997.0,United States,Canada,3.0,0.0,FIFA World Cup qualification,Palo Alto,United States,False,1719.0,NA,North America,1,3.0,home,0,4,3
+1997-03-16,1997.0,Costa Rica,Mexico,0.0,0.0,FIFA World Cup qualification,San José,Costa Rica,False,1616.0,NA,North America,2,0.0,home,0,15,3
+1997-03-23,1997.0,Costa Rica,United States,3.0,2.0,FIFA World Cup qualification,San José,Costa Rica,False,1616.0,NA,North America,1,5.0,home,0,27,3
+1997-03-29,1997.0,Wales,Belgium,1.0,2.0,FIFA World Cup qualification,Cardiff,Wales,False,1575.0,EU,Europe,0,3.0,home,0,2,2
+1997-03-29,1997.0,Croatia,Denmark,1.0,1.0,FIFA World Cup qualification,Split,Croatia,False,1867.0,EU,Europe,2,2.0,home,0,7,2
+1997-04-20,1997.0,United States,Mexico,2.0,2.0,FIFA World Cup qualification,Foxborough,United States,False,1719.0,NA,North America,2,4.0,home,0,15,3
+1997-04-30,1997.0,Argentina,Ecuador,2.0,1.0,FIFA World Cup qualification,Buenos Aires,Argentina,False,1829.0,SA,South America,1,3.0,home,0,8,5
+1997-05-31,1997.0,Poland,England,0.0,2.0,FIFA World Cup qualification,Chorzów,Poland,False,1671.0,EU,Europe,0,2.0,home,0,9,2
+1997-06-01,1997.0,Canada,Costa Rica,1.0,0.0,FIFA World Cup qualification,Edmonton,Canada,False,1523.0,NA,North America,1,1.0,home,0,5,3
+1997-09-06,1997.0,Germany,Portugal,1.0,1.0,FIFA World Cup qualification,Berlin,Germany,False,2070.0,EU,Europe,2,2.0,home,0,18,2
+1997-09-06,1997.0,Netherlands,Belgium,3.0,1.0,FIFA World Cup qualification,Rotterdam,Netherlands,False,1939.0,EU,Europe,1,4.0,home,0,2,2
+1997-09-07,1997.0,United States,Costa Rica,1.0,0.0,FIFA World Cup qualification,Portland,United States,False,1719.0,NA,North America,1,1.0,home,0,5,3
+1997-09-10,1997.0,Denmark,Croatia,3.0,1.0,FIFA World Cup qualification,Copenhagen,Denmark,False,1930.0,EU,Europe,1,4.0,home,0,6,2
+1997-09-19,1997.0,Iran,Saudi Arabia,1.0,1.0,FIFA World Cup qualification,Tehran,Iran,False,1688.0,AS,Asia,2,2.0,home,0,20,1
+1997-09-28,1997.0,Japan,South Korea,1.0,2.0,FIFA World Cup qualification,Tokyo,Japan,False,1758.0,AS,Asia,0,3.0,home,0,23,1
+1997-10-03,1997.0,Iran,Qatar,3.0,0.0,FIFA World Cup qualification,Tehran,Iran,False,1688.0,AS,Asia,1,3.0,home,0,19,1
+1997-10-11,1997.0,Belgium,Wales,3.0,2.0,FIFA World Cup qualification,Brussels,Belgium,False,1798.0,EU,Europe,1,5.0,home,0,29,2
+1997-10-11,1997.0,Saudi Arabia,Qatar,1.0,0.0,FIFA World Cup qualification,Taif,Saudi Arabia,False,1641.0,AS,Asia,1,1.0,home,0,19,1
+1997-10-12,1997.0,Argentina,Uruguay,0.0,0.0,FIFA World Cup qualification,Buenos Aires,Argentina,False,1829.0,SA,South America,2,0.0,home,0,28,5
+1997-10-12,1997.0,Canada,Mexico,2.0,2.0,FIFA World Cup qualification,Edmonton,Canada,False,1523.0,NA,North America,2,4.0,home,0,15,3
+1997-10-24,1997.0,Saudi Arabia,Iran,1.0,0.0,FIFA World Cup qualification,Taif,Saudi Arabia,False,1641.0,AS,Asia,1,1.0,home,0,13,1
+1997-11-01,1997.0,South Korea,Japan,0.0,2.0,FIFA World Cup qualification,Seoul,South Korea,False,1760.0,AS,Asia,0,2.0,home,0,14,1
+1997-11-02,1997.0,Mexico,United States,0.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1787.0,NA,North America,2,0.0,home,0,27,3
+1997-11-07,1997.0,Qatar,Iran,2.0,0.0,FIFA World Cup qualification,Doha,Qatar,False,1551.0,AS,Asia,1,2.0,home,0,13,1
+1997-11-09,1997.0,Canada,United States,0.0,3.0,FIFA World Cup qualification,Burnaby,Canada,False,1523.0,NA,North America,0,3.0,home,0,27,3
+1997-11-09,1997.0,Mexico,Costa Rica,3.0,3.0,FIFA World Cup qualification,Mexico City,Mexico,False,1787.0,NA,North America,2,6.0,home,0,5,3
+1997-11-12,1997.0,Qatar,Saudi Arabia,0.0,1.0,FIFA World Cup qualification,Doha,Qatar,False,1551.0,AS,Asia,0,1.0,home,0,20,1
+1997-11-16,1997.0,Japan,Iran,3.0,2.0,FIFA World Cup qualification,Johor Bahru,Malaysia,True,1758.0,AS,Asia,1,5.0,neutral,1,13,1
+1997-11-16,1997.0,Costa Rica,Canada,3.0,1.0,FIFA World Cup qualification,San José,Costa Rica,False,1616.0,NA,North America,1,4.0,home,0,4,3
+1997-11-16,1997.0,Uruguay,Ecuador,5.0,3.0,FIFA World Cup qualification,Maldonado,Uruguay,False,1755.0,SA,South America,1,8.0,home,0,8,5
+1997-11-22,1997.0,Iran,Australia,1.0,1.0,FIFA World Cup qualification,Tehran,Iran,False,1688.0,AS,Asia,2,2.0,home,0,1,1
+1997-11-29,1997.0,Australia,Iran,2.0,2.0,FIFA World Cup qualification,Melbourne,Australia,False,1848.0,OC,Oceania,2,4.0,home,0,13,4
+1998-06-12,1998.0,Saudi Arabia,Denmark,0.0,1.0,FIFA World Cup,Lens,France,True,1710.0,EU,Europe,0,1.0,neutral,1,7,2
+1998-06-13,1998.0,Netherlands,Belgium,0.0,0.0,FIFA World Cup,Saint-Denis,France,True,1993.0,EU,Europe,2,0.0,neutral,1,2,2
+1998-06-13,1998.0,South Korea,Mexico,1.0,3.0,FIFA World Cup,Lyon,France,True,1689.0,EU,Europe,0,4.0,neutral,1,15,2
+1998-06-14,1998.0,Argentina,Japan,1.0,0.0,FIFA World Cup,Toulouse,France,True,1930.0,EU,Europe,1,1.0,neutral,1,14,2
+1998-06-15,1998.0,Germany,United States,2.0,0.0,FIFA World Cup,Paris,France,True,1978.0,EU,Europe,1,2.0,neutral,1,27,2
+1998-06-15,1998.0,England,Tunisia,2.0,0.0,FIFA World Cup,Marseille,France,True,1944.0,EU,Europe,1,2.0,neutral,1,26,2
+1998-06-18,1998.0,France,Saudi Arabia,4.0,0.0,FIFA World Cup,Saint-Denis,France,False,2076.0,EU,Europe,1,4.0,home,0,20,2
+1998-06-20,1998.0,Belgium,Mexico,2.0,2.0,FIFA World Cup,Bordeaux,France,True,1815.0,EU,Europe,2,4.0,neutral,1,15,2
+1998-06-20,1998.0,Netherlands,South Korea,5.0,0.0,FIFA World Cup,Marseille,France,True,1993.0,EU,Europe,1,5.0,neutral,1,23,2
+1998-06-20,1998.0,Japan,Croatia,0.0,1.0,FIFA World Cup,Nantes,France,True,1696.0,EU,Europe,0,1.0,neutral,1,6,2
+1998-06-21,1998.0,Germany,Serbia,2.0,2.0,FIFA World Cup,Lens,France,True,1978.0,EU,Europe,2,4.0,neutral,1,22,2
+1998-06-21,1998.0,United States,Iran,1.0,2.0,FIFA World Cup,Lyon,France,True,1695.0,EU,Europe,0,3.0,neutral,1,13,2
+1998-06-24,1998.0,France,Denmark,2.0,1.0,FIFA World Cup,Lyon,France,False,2076.0,EU,Europe,1,3.0,home,0,7,2
+1998-06-25,1998.0,Belgium,South Korea,1.0,1.0,FIFA World Cup,Paris,France,True,1815.0,EU,Europe,2,2.0,neutral,1,23,2
+1998-06-25,1998.0,United States,Serbia,0.0,1.0,FIFA World Cup,Nantes,France,True,1695.0,EU,Europe,0,1.0,neutral,1,22,2
+1998-06-25,1998.0,Netherlands,Mexico,2.0,2.0,FIFA World Cup,Saint-Étienne,France,True,1993.0,EU,Europe,2,4.0,neutral,1,15,2
+1998-06-25,1998.0,Germany,Iran,2.0,0.0,FIFA World Cup,Montpellier,France,True,1978.0,EU,Europe,1,2.0,neutral,1,13,2
+1998-06-26,1998.0,Argentina,Croatia,1.0,0.0,FIFA World Cup,Bordeaux,France,True,1930.0,EU,Europe,1,1.0,neutral,1,6,2
+1998-06-29,1998.0,Netherlands,Serbia,2.0,1.0,FIFA World Cup,Toulouse,France,True,1993.0,EU,Europe,1,3.0,neutral,1,22,2
+1998-06-29,1998.0,Germany,Mexico,2.0,1.0,FIFA World Cup,Montpellier,France,True,1978.0,EU,Europe,1,3.0,neutral,1,15,2
+1998-06-30,1998.0,Argentina,England,2.0,2.0,FIFA World Cup,Saint-Étienne,France,True,1930.0,EU,Europe,2,4.0,neutral,1,9,2
+1998-07-03,1998.0,Brazil,Denmark,3.0,2.0,FIFA World Cup,Nantes,France,True,2050.0,EU,Europe,1,5.0,neutral,1,7,2
+1998-07-04,1998.0,Germany,Croatia,0.0,3.0,FIFA World Cup,Lyon,France,True,1978.0,EU,Europe,0,3.0,neutral,1,6,2
+1998-07-04,1998.0,Netherlands,Argentina,2.0,1.0,FIFA World Cup,Marseille,France,True,1993.0,EU,Europe,1,3.0,neutral,1,0,2
+1998-07-07,1998.0,Brazil,Netherlands,1.0,1.0,FIFA World Cup,Marseille,France,True,2050.0,EU,Europe,2,2.0,neutral,1,16,2
+1998-07-08,1998.0,France,Croatia,2.0,1.0,FIFA World Cup,Saint-Denis,France,False,2076.0,EU,Europe,1,3.0,home,0,6,2
+1998-07-11,1998.0,Netherlands,Croatia,1.0,2.0,FIFA World Cup,Paris,France,True,1993.0,EU,Europe,0,3.0,neutral,1,6,2
+1998-07-12,1998.0,France,Brazil,3.0,0.0,FIFA World Cup,Saint-Denis,France,False,2076.0,EU,Europe,1,3.0,home,0,3,2
+2000-04-26,2000.0,Brazil,Ecuador,3.0,2.0,FIFA World Cup qualification,São Paulo,Brazil,False,2022.0,SA,South America,1,5.0,home,0,8,5
+2000-06-28,2000.0,Brazil,Uruguay,1.0,1.0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False,2022.0,SA,South America,2,2.0,home,0,28,5
+2000-07-19,2000.0,Argentina,Ecuador,2.0,0.0,FIFA World Cup qualification,Buenos Aires,Argentina,False,2003.0,SA,South America,1,2.0,home,0,8,5
+2000-07-23,2000.0,Costa Rica,United States,2.0,1.0,FIFA World Cup qualification,San José,Costa Rica,False,1606.0,NA,North America,1,3.0,home,0,27,3
+2000-07-26,2000.0,Brazil,Argentina,3.0,1.0,FIFA World Cup qualification,São Paulo,Brazil,False,2022.0,SA,South America,1,4.0,home,0,0,5
+2000-08-15,2000.0,Mexico,Canada,2.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1824.0,NA,North America,1,2.0,home,0,4,3
+2000-09-02,2000.0,Belgium,Croatia,0.0,0.0,FIFA World Cup qualification,Brussels,Belgium,False,1786.0,EU,Europe,2,0.0,home,0,6,2
+2000-09-03,2000.0,Uruguay,Ecuador,4.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1754.0,SA,South America,1,4.0,home,0,8,5
+2000-10-07,2000.0,England,Germany,0.0,1.0,FIFA World Cup qualification,London,England,False,1851.0,EU,Europe,0,1.0,home,0,11,2
+2000-10-08,2000.0,Argentina,Uruguay,2.0,1.0,FIFA World Cup qualification,Buenos Aires,Argentina,False,2003.0,SA,South America,1,3.0,home,0,28,5
+2000-10-11,2000.0,United States,Costa Rica,0.0,0.0,FIFA World Cup qualification,Columbus,United States,False,1808.0,NA,North America,2,0.0,home,0,5,3
+2000-10-11,2000.0,Poland,Wales,0.0,0.0,FIFA World Cup qualification,Warsaw,Poland,False,1758.0,EU,Europe,2,0.0,home,0,29,2
+2000-10-11,2000.0,Netherlands,Portugal,0.0,2.0,FIFA World Cup qualification,Rotterdam,Netherlands,False,2000.0,EU,Europe,0,2.0,home,0,18,2
+2000-11-15,2000.0,Canada,Mexico,0.0,0.0,FIFA World Cup qualification,Toronto,Canada,False,1630.0,NA,North America,2,0.0,home,0,15,3
+2001-02-28,2001.0,United States,Mexico,2.0,0.0,FIFA World Cup qualification,Columbus,United States,False,1752.0,NA,North America,1,2.0,home,0,15,3
+2001-03-28,2001.0,Ecuador,Brazil,1.0,0.0,FIFA World Cup qualification,Quito,Ecuador,False,1733.0,SA,South America,1,1.0,home,0,3,5
+2001-03-28,2001.0,Portugal,Netherlands,2.0,2.0,FIFA World Cup qualification,Porto,Portugal,False,2011.0,EU,Europe,2,4.0,home,0,16,2
+2001-04-25,2001.0,United States,Costa Rica,1.0,0.0,FIFA World Cup qualification,Kansas City,United States,False,1752.0,NA,North America,1,1.0,home,0,5,3
+2001-06-02,2001.0,Wales,Poland,1.0,2.0,FIFA World Cup qualification,Cardiff,Wales,False,1552.0,EU,Europe,0,3.0,home,0,17,2
+2001-06-16,2001.0,Mexico,Costa Rica,1.0,2.0,FIFA World Cup qualification,Mexico City,Mexico,False,1808.0,NA,North America,0,3.0,home,0,5,3
+2001-07-01,2001.0,Uruguay,Brazil,1.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1788.0,SA,South America,1,1.0,home,0,3,5
+2001-07-01,2001.0,Mexico,United States,1.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1808.0,NA,North America,1,1.0,home,0,27,3
+2001-08-15,2001.0,Ecuador,Argentina,0.0,2.0,FIFA World Cup qualification,Quito,Ecuador,False,1733.0,SA,South America,0,2.0,home,0,0,5
+2001-08-24,2001.0,Iran,Saudi Arabia,2.0,0.0,FIFA World Cup qualification,Tehran,Iran,False,1753.0,AS,Asia,1,2.0,home,0,20,1
+2001-09-01,2001.0,Switzerland,Serbia,1.0,2.0,FIFA World Cup qualification,Basel,Switzerland,False,1659.0,EU,Europe,0,3.0,home,0,22,2
+2001-09-01,2001.0,Germany,England,1.0,5.0,FIFA World Cup qualification,Munich,Germany,False,1869.0,EU,Europe,0,6.0,home,0,9,2
+2001-09-05,2001.0,Argentina,Brazil,2.0,1.0,FIFA World Cup qualification,Buenos Aires,Argentina,False,2022.0,SA,South America,1,3.0,home,0,3,5
+2001-09-05,2001.0,Costa Rica,United States,2.0,0.0,FIFA World Cup qualification,San José,Costa Rica,False,1774.0,NA,North America,1,2.0,home,0,27,3
+2001-09-28,2001.0,Saudi Arabia,Iran,2.0,2.0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False,1699.0,AS,Asia,2,4.0,home,0,13,1
+2001-10-06,2001.0,Croatia,Belgium,1.0,0.0,FIFA World Cup qualification,Zagreb,Croatia,False,1885.0,EU,Europe,1,1.0,home,0,2,2
+2001-10-07,2001.0,Costa Rica,Mexico,0.0,0.0,FIFA World Cup qualification,San José,Costa Rica,False,1774.0,NA,North America,2,0.0,home,0,15,3
+2001-11-07,2001.0,Ecuador,Uruguay,1.0,1.0,FIFA World Cup qualification,Quito,Ecuador,False,1733.0,SA,South America,2,2.0,home,0,28,5
+2001-11-14,2001.0,Uruguay,Argentina,1.0,1.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1788.0,SA,South America,2,2.0,home,0,0,5
+2001-11-20,2001.0,Australia,Uruguay,1.0,0.0,FIFA World Cup qualification,Melbourne,Australia,False,1828.0,OC,Oceania,1,1.0,home,0,28,4
+2001-11-25,2001.0,Uruguay,Australia,3.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1788.0,SA,South America,1,3.0,home,0,1,5
+2002-05-31,2002.0,France,Senegal,0.0,1.0,FIFA World Cup,Seoul,South Korea,True,1978.0,AS,Asia,0,1.0,neutral,1,21,1
+2002-06-01,2002.0,Uruguay,Denmark,1.0,2.0,FIFA World Cup,Ulsan,South Korea,True,1790.0,AS,Asia,0,3.0,neutral,1,7,1
+2002-06-01,2002.0,Germany,Saudi Arabia,8.0,0.0,FIFA World Cup,Sapporo,Japan,True,1937.0,AS,Asia,1,8.0,neutral,1,20,1
+2002-06-03,2002.0,Croatia,Mexico,0.0,1.0,FIFA World Cup,Niigata,Japan,True,1803.0,AS,Asia,0,1.0,neutral,1,15,1
+2002-06-04,2002.0,Japan,Belgium,2.0,2.0,FIFA World Cup,Saitama,Japan,False,1809.0,AS,Asia,2,4.0,home,0,2,1
+2002-06-04,2002.0,South Korea,Poland,2.0,0.0,FIFA World Cup,Busan,South Korea,False,1766.0,AS,Asia,1,2.0,home,0,17,1
+2002-06-05,2002.0,United States,Portugal,3.0,2.0,FIFA World Cup,Suwon,South Korea,True,1826.0,AS,Asia,1,5.0,neutral,1,18,1
+2002-06-06,2002.0,Denmark,Senegal,1.0,1.0,FIFA World Cup,Daegu,South Korea,True,1911.0,AS,Asia,2,2.0,neutral,1,21,1
+2002-06-06,2002.0,France,Uruguay,0.0,0.0,FIFA World Cup,Busan,South Korea,True,1978.0,AS,Asia,2,0.0,neutral,1,28,1
+2002-06-07,2002.0,Argentina,England,0.0,1.0,FIFA World Cup,Sapporo,Japan,True,1994.0,AS,Asia,0,1.0,neutral,1,9,1
+2002-06-09,2002.0,Mexico,Ecuador,2.0,1.0,FIFA World Cup,Rifu,Japan,True,1832.0,AS,Asia,1,3.0,neutral,1,8,1
+2002-06-10,2002.0,South Korea,United States,1.0,1.0,FIFA World Cup,Daegu,South Korea,False,1766.0,AS,Asia,2,2.0,home,0,27,1
+2002-06-10,2002.0,Tunisia,Belgium,1.0,1.0,FIFA World Cup,Ōita,Japan,True,1619.0,AS,Asia,2,2.0,neutral,1,2,1
+2002-06-10,2002.0,Portugal,Poland,4.0,0.0,FIFA World Cup,Jeonju,South Korea,True,1931.0,AS,Asia,1,4.0,neutral,1,17,1
+2002-06-11,2002.0,Denmark,France,2.0,0.0,FIFA World Cup,Incheon,South Korea,True,1911.0,AS,Asia,1,2.0,neutral,1,10,1
+2002-06-11,2002.0,Senegal,Uruguay,3.0,3.0,FIFA World Cup,Suwon,South Korea,True,1780.0,AS,Asia,2,6.0,neutral,1,28,1
+2002-06-13,2002.0,Ecuador,Croatia,1.0,0.0,FIFA World Cup,Yokohama,Japan,True,1721.0,AS,Asia,1,1.0,neutral,1,6,1
+2002-06-13,2002.0,Costa Rica,Brazil,2.0,5.0,FIFA World Cup,Suwon,South Korea,True,1753.0,AS,Asia,0,7.0,neutral,1,3,1
+2002-06-14,2002.0,South Korea,Portugal,1.0,0.0,FIFA World Cup,Incheon,South Korea,False,1766.0,AS,Asia,1,1.0,home,0,18,1
+2002-06-14,2002.0,Japan,Tunisia,2.0,0.0,FIFA World Cup,Osaka,Japan,False,1809.0,AS,Asia,1,2.0,home,0,26,1
+2002-06-14,2002.0,Poland,United States,3.0,1.0,FIFA World Cup,Daejeon,South Korea,True,1708.0,AS,Asia,1,4.0,neutral,1,27,1
+2002-06-15,2002.0,Denmark,England,0.0,3.0,FIFA World Cup,Niigata,Japan,True,1911.0,AS,Asia,0,3.0,neutral,1,9,1
+2002-06-17,2002.0,Brazil,Belgium,2.0,0.0,FIFA World Cup,Kobe,Japan,True,2057.0,AS,Asia,1,2.0,neutral,1,2,1
+2002-06-17,2002.0,Mexico,United States,0.0,2.0,FIFA World Cup,Jeonju,South Korea,True,1832.0,AS,Asia,0,2.0,neutral,1,27,1
+2002-06-21,2002.0,Germany,United States,1.0,0.0,FIFA World Cup,Ulsan,South Korea,True,1937.0,AS,Asia,1,1.0,neutral,1,27,1
+2002-06-21,2002.0,England,Brazil,1.0,2.0,FIFA World Cup,Fukuroi,Japan,True,1953.0,AS,Asia,0,3.0,neutral,1,3,1
+2002-06-22,2002.0,South Korea,Spain,0.0,0.0,FIFA World Cup,Gwangju,South Korea,False,1766.0,AS,Asia,2,0.0,home,0,24,1
+2002-06-25,2002.0,South Korea,Germany,0.0,1.0,FIFA World Cup,Seoul,South Korea,False,1766.0,AS,Asia,0,1.0,home,0,11,1
+2002-06-30,2002.0,Germany,Brazil,0.0,2.0,FIFA World Cup,Yokohama,Japan,True,1937.0,AS,Asia,0,2.0,neutral,1,3,1
+2003-09-10,2003.0,Brazil,Ecuador,1.0,0.0,FIFA World Cup qualification,Manaus,Brazil,False,1991.0,SA,South America,1,1.0,home,0,8,5
+2003-11-19,2003.0,Brazil,Uruguay,3.0,3.0,FIFA World Cup qualification,Curitiba,Brazil,False,1991.0,SA,South America,2,6.0,home,0,28,5
+2004-02-18,2004.0,Iran,Qatar,3.0,1.0,FIFA World Cup qualification,Tehran,Iran,False,1797.0,AS,Asia,1,4.0,home,0,19,1
+2004-03-30,2004.0,Argentina,Ecuador,1.0,0.0,FIFA World Cup qualification,Buenos Aires,Argentina,False,2028.0,SA,South America,1,1.0,home,0,8,5
+2004-06-02,2004.0,Brazil,Argentina,3.0,1.0,FIFA World Cup qualification,Belo Horizonte,Brazil,False,1973.0,SA,South America,1,4.0,home,0,0,5
+2004-09-05,2004.0,Uruguay,Ecuador,1.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1820.0,SA,South America,1,1.0,home,0,8,5
+2004-09-08,2004.0,Poland,England,1.0,2.0,FIFA World Cup qualification,Chorzów,Poland,False,1801.0,EU,Europe,0,3.0,home,0,9,2
+2004-09-08,2004.0,Costa Rica,Canada,1.0,0.0,FIFA World Cup qualification,San José,Costa Rica,False,1690.0,NA,North America,1,1.0,home,0,4,3
+2004-10-09,2004.0,Spain,Belgium,2.0,0.0,FIFA World Cup qualification,Santander,Spain,False,1966.0,EU,Europe,1,2.0,home,0,2,2
+2004-10-09,2004.0,Argentina,Uruguay,4.0,2.0,FIFA World Cup qualification,Buenos Aires,Argentina,False,2028.0,SA,South America,1,6.0,home,0,28,5
+2004-10-09,2004.0,England,Wales,2.0,0.0,FIFA World Cup qualification,Manchester,England,False,1977.0,EU,Europe,1,2.0,home,0,29,2
+2004-10-13,2004.0,Qatar,Iran,2.0,3.0,FIFA World Cup qualification,Doha,Qatar,False,1526.0,AS,Asia,0,5.0,home,0,13,1
+2004-10-13,2004.0,Canada,Costa Rica,1.0,3.0,FIFA World Cup qualification,Burnaby,Canada,False,1562.0,NA,North America,0,4.0,home,0,5,3
+2004-10-13,2004.0,Wales,Poland,2.0,3.0,FIFA World Cup qualification,Cardiff,Wales,False,1624.0,EU,Europe,0,5.0,home,0,17,2
+2004-11-17,2004.0,Belgium,Serbia,0.0,2.0,FIFA World Cup qualification,Brussels,Belgium,False,1726.0,EU,Europe,0,2.0,home,0,22,2
+2004-11-17,2004.0,Ecuador,Brazil,1.0,0.0,FIFA World Cup qualification,Quito,Ecuador,False,1666.0,SA,South America,1,1.0,home,0,3,5
+2005-02-09,2005.0,Costa Rica,Mexico,1.0,2.0,FIFA World Cup qualification,San José,Costa Rica,False,1732.0,NA,North America,0,3.0,home,0,15,3
+2005-03-25,2005.0,Iran,Japan,2.0,1.0,FIFA World Cup qualification,Tehran,Iran,False,1796.0,AS,Asia,1,3.0,home,0,14,1
+2005-03-25,2005.0,Saudi Arabia,South Korea,2.0,0.0,FIFA World Cup qualification,Dammam,Saudi Arabia,False,1608.0,AS,Asia,1,2.0,home,0,23,1
+2005-03-26,2005.0,France,Switzerland,0.0,0.0,FIFA World Cup qualification,Saint-Denis,France,False,1975.0,EU,Europe,2,0.0,home,0,25,2
+2005-03-27,2005.0,Mexico,United States,2.0,1.0,FIFA World Cup qualification,Mexico City,Mexico,False,1835.0,NA,North America,1,3.0,home,0,27,3
+2005-03-30,2005.0,Uruguay,Brazil,1.0,1.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1821.0,SA,South America,2,2.0,home,0,3,5
+2005-06-04,2005.0,Ecuador,Argentina,2.0,0.0,FIFA World Cup qualification,Quito,Ecuador,False,1714.0,SA,South America,1,2.0,home,0,0,5
+2005-06-04,2005.0,United States,Costa Rica,3.0,0.0,FIFA World Cup qualification,Salt Lake City,United States,False,1841.0,NA,North America,1,3.0,home,0,5,3
+2005-06-08,2005.0,Argentina,Brazil,3.0,1.0,FIFA World Cup qualification,Buenos Aires,Argentina,False,1932.0,SA,South America,1,4.0,home,0,3,5
+2005-08-17,2005.0,South Korea,Saudi Arabia,0.0,1.0,FIFA World Cup qualification,Seoul,South Korea,False,1687.0,AS,Asia,0,1.0,home,0,20,1
+2005-08-17,2005.0,Japan,Iran,2.0,1.0,FIFA World Cup qualification,Yokohama,Japan,False,1811.0,AS,Asia,1,3.0,home,0,13,1
+2005-08-17,2005.0,Mexico,Costa Rica,2.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1835.0,NA,North America,1,2.0,home,0,5,3
+2005-09-03,2005.0,United States,Mexico,2.0,0.0,FIFA World Cup qualification,Columbus,United States,False,1841.0,NA,North America,1,2.0,home,0,15,3
+2005-09-03,2005.0,Wales,England,0.0,1.0,FIFA World Cup qualification,Cardiff,Wales,False,1591.0,EU,Europe,0,1.0,home,0,9,2
+2005-09-07,2005.0,Poland,Wales,1.0,0.0,FIFA World Cup qualification,Warsaw,Poland,False,1847.0,EU,Europe,1,1.0,home,0,29,2
+2005-09-07,2005.0,Spain,Serbia,1.0,1.0,FIFA World Cup qualification,Madrid,Spain,False,1958.0,EU,Europe,2,2.0,home,0,22,2
+2005-10-08,2005.0,Costa Rica,United States,3.0,0.0,FIFA World Cup qualification,San José,Costa Rica,False,1732.0,NA,North America,1,3.0,home,0,27,3
+2005-10-08,2005.0,Switzerland,France,1.0,1.0,FIFA World Cup qualification,Berne,Switzerland,False,1779.0,EU,Europe,2,2.0,home,0,10,2
+2005-10-08,2005.0,Belgium,Spain,0.0,2.0,FIFA World Cup qualification,Brussels,Belgium,False,1700.0,EU,Europe,0,2.0,home,0,24,2
+2005-10-08,2005.0,Ecuador,Uruguay,0.0,0.0,FIFA World Cup qualification,Quito,Ecuador,False,1714.0,SA,South America,2,0.0,home,0,28,5
+2005-10-12,2005.0,England,Poland,2.0,1.0,FIFA World Cup qualification,Manchester,England,False,1963.0,EU,Europe,1,3.0,home,0,17,2
+2005-10-12,2005.0,Uruguay,Argentina,1.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1821.0,SA,South America,1,1.0,home,0,0,5
+2005-11-12,2005.0,Uruguay,Australia,1.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1821.0,SA,South America,1,1.0,home,0,1,5
+2005-11-16,2005.0,Australia,Uruguay,1.0,0.0,FIFA World Cup qualification,Sydney,Australia,False,1768.0,OC,Oceania,1,1.0,home,0,28,4
+2006-06-09,2006.0,Poland,Ecuador,0.0,2.0,FIFA World Cup,Gelsenkirchen,Germany,True,1780.0,EU,Europe,0,2.0,neutral,1,8,2
+2006-06-09,2006.0,Germany,Costa Rica,4.0,2.0,FIFA World Cup,Munich,Germany,False,1976.0,EU,Europe,1,6.0,home,0,5,2
+2006-06-11,2006.0,Mexico,Iran,3.0,1.0,FIFA World Cup,Nuremberg,Germany,True,1817.0,EU,Europe,1,4.0,neutral,1,13,2
+2006-06-11,2006.0,Serbia,Netherlands,0.0,1.0,FIFA World Cup,Leipzig,Germany,True,1761.0,EU,Europe,0,1.0,neutral,1,16,2
+2006-06-12,2006.0,Australia,Japan,3.0,1.0,FIFA World Cup,Kaiserslautern,Germany,True,1763.0,EU,Europe,1,4.0,neutral,1,14,2
+2006-06-13,2006.0,Brazil,Croatia,1.0,0.0,FIFA World Cup,Berlin,Germany,True,2080.0,EU,Europe,1,1.0,neutral,1,6,2
+2006-06-13,2006.0,France,Switzerland,0.0,0.0,FIFA World Cup,Stuttgart,Germany,True,2062.0,EU,Europe,2,0.0,neutral,1,25,2
+2006-06-14,2006.0,Germany,Poland,1.0,0.0,FIFA World Cup,Dortmund,Germany,False,1976.0,EU,Europe,1,1.0,home,0,17,2
+2006-06-14,2006.0,Tunisia,Saudi Arabia,2.0,2.0,FIFA World Cup,Munich,Germany,True,1643.0,EU,Europe,2,4.0,neutral,1,20,2
+2006-06-15,2006.0,Ecuador,Costa Rica,3.0,0.0,FIFA World Cup,Hamburg,Germany,True,1760.0,EU,Europe,1,3.0,neutral,1,5,2
+2006-06-16,2006.0,Argentina,Serbia,6.0,0.0,FIFA World Cup,Gelsenkirchen,Germany,True,1980.0,EU,Europe,1,6.0,neutral,1,22,2
+2006-06-17,2006.0,Portugal,Iran,2.0,0.0,FIFA World Cup,Frankfurt am Main,Germany,True,1895.0,EU,Europe,1,2.0,neutral,1,13,2
+2006-06-18,2006.0,Japan,Croatia,0.0,0.0,FIFA World Cup,Nuremberg,Germany,True,1730.0,EU,Europe,2,0.0,neutral,1,6,2
+2006-06-18,2006.0,Brazil,Australia,2.0,0.0,FIFA World Cup,Munich,Germany,True,2080.0,EU,Europe,1,2.0,neutral,1,1,2
+2006-06-18,2006.0,France,South Korea,1.0,1.0,FIFA World Cup,Leipzig,Germany,True,2062.0,EU,Europe,2,2.0,neutral,1,23,2
+2006-06-19,2006.0,Spain,Tunisia,3.0,1.0,FIFA World Cup,Stuttgart,Germany,True,1885.0,EU,Europe,1,4.0,neutral,1,26,2
+2006-06-20,2006.0,Costa Rica,Poland,1.0,2.0,FIFA World Cup,Hanover,Germany,True,1632.0,EU,Europe,0,3.0,neutral,1,17,2
+2006-06-20,2006.0,Germany,Ecuador,3.0,0.0,FIFA World Cup,Berlin,Germany,False,1976.0,EU,Europe,1,3.0,home,0,8,2
+2006-06-21,2006.0,Netherlands,Argentina,0.0,0.0,FIFA World Cup,Frankfurt am Main,Germany,True,1991.0,EU,Europe,2,0.0,neutral,1,0,2
+2006-06-21,2006.0,Portugal,Mexico,2.0,1.0,FIFA World Cup,Gelsenkirchen,Germany,True,1895.0,EU,Europe,1,3.0,neutral,1,15,2
+2006-06-22,2006.0,Ghana,United States,2.0,1.0,FIFA World Cup,Nuremberg,Germany,True,1754.0,EU,Europe,1,3.0,neutral,1,27,2
+2006-06-22,2006.0,Japan,Brazil,1.0,4.0,FIFA World Cup,Dortmund,Germany,True,1730.0,EU,Europe,0,5.0,neutral,1,3,2
+2006-06-22,2006.0,Croatia,Australia,2.0,2.0,FIFA World Cup,Stuttgart,Germany,True,1897.0,EU,Europe,2,4.0,neutral,1,1,2
+2006-06-23,2006.0,Saudi Arabia,Spain,0.0,1.0,FIFA World Cup,Kaiserslautern,Germany,True,1603.0,EU,Europe,0,1.0,neutral,1,24,2
+2006-06-23,2006.0,Switzerland,South Korea,2.0,0.0,FIFA World Cup,Hanover,Germany,True,1846.0,EU,Europe,1,2.0,neutral,1,23,2
+2006-06-24,2006.0,Argentina,Mexico,2.0,1.0,FIFA World Cup,Leipzig,Germany,True,1980.0,EU,Europe,1,3.0,neutral,1,15,2
+2006-06-25,2006.0,England,Ecuador,1.0,0.0,FIFA World Cup,Stuttgart,Germany,True,1960.0,EU,Europe,1,1.0,neutral,1,8,2
+2006-06-25,2006.0,Portugal,Netherlands,1.0,0.0,FIFA World Cup,Nuremberg,Germany,True,1895.0,EU,Europe,1,1.0,neutral,1,16,2
+2006-06-27,2006.0,Spain,France,1.0,3.0,FIFA World Cup,Hanover,Germany,True,1885.0,EU,Europe,0,4.0,neutral,1,10,2
+2006-06-27,2006.0,Brazil,Ghana,3.0,0.0,FIFA World Cup,Dortmund,Germany,True,2080.0,EU,Europe,1,3.0,neutral,1,12,2
+2006-06-30,2006.0,Germany,Argentina,1.0,1.0,FIFA World Cup,Berlin,Germany,False,1976.0,EU,Europe,2,2.0,home,0,0,2
+2006-07-01,2006.0,England,Portugal,0.0,0.0,FIFA World Cup,Gelsenkirchen,Germany,True,1960.0,EU,Europe,2,0.0,neutral,1,18,2
+2006-07-01,2006.0,Brazil,France,0.0,1.0,FIFA World Cup,Frankfurt am Main,Germany,True,2080.0,EU,Europe,0,1.0,neutral,1,10,2
+2006-07-05,2006.0,Portugal,France,0.0,1.0,FIFA World Cup,Munich,Germany,True,1895.0,EU,Europe,0,1.0,neutral,1,10,2
+2006-07-08,2006.0,Germany,Portugal,3.0,1.0,FIFA World Cup,Stuttgart,Germany,False,1976.0,EU,Europe,1,4.0,home,0,18,2
+2007-10-17,2007.0,Brazil,Ecuador,5.0,0.0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False,2077.0,SA,South America,1,5.0,home,0,8,5
+2007-11-21,2007.0,Brazil,Uruguay,2.0,1.0,FIFA World Cup qualification,São Paulo,Brazil,False,2077.0,SA,South America,1,3.0,home,0,28,5
+2008-02-06,2008.0,Australia,Qatar,3.0,0.0,FIFA World Cup qualification,Melbourne,Australia,False,1756.0,OC,Oceania,1,3.0,home,0,19,4
+2008-06-14,2008.0,Qatar,Australia,1.0,3.0,FIFA World Cup qualification,Doha,Qatar,False,1507.0,AS,Asia,0,4.0,home,0,1,1
+2008-06-15,2008.0,Argentina,Ecuador,1.0,1.0,FIFA World Cup qualification,Buenos Aires,Argentina,False,1973.0,SA,South America,2,2.0,home,0,8,5
+2008-06-18,2008.0,Brazil,Argentina,0.0,0.0,FIFA World Cup qualification,Belo Horizonte,Brazil,False,2017.0,SA,South America,2,0.0,home,0,0,5
+2008-09-06,2008.0,Saudi Arabia,Iran,1.0,1.0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False,1650.0,AS,Asia,2,2.0,home,0,13,1
+2008-09-10,2008.0,Croatia,England,1.0,4.0,FIFA World Cup qualification,Zagreb,Croatia,False,1881.0,EU,Europe,0,5.0,home,0,9,2
+2008-09-10,2008.0,France,Serbia,2.0,1.0,FIFA World Cup qualification,Saint-Denis,France,False,1893.0,EU,Europe,1,3.0,home,0,22,2
+2008-09-10,2008.0,Portugal,Denmark,2.0,3.0,FIFA World Cup qualification,Lisbon,Portugal,False,1821.0,EU,Europe,0,5.0,home,0,7,2
+2008-09-10,2008.0,Uruguay,Ecuador,0.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1831.0,SA,South America,2,0.0,home,0,8,5
+2008-09-10,2008.0,Mexico,Canada,2.0,1.0,FIFA World Cup qualification,Tuxtla Gutiérrez,Mexico,False,1835.0,NA,North America,1,3.0,home,0,4,3
+2008-10-11,2008.0,Argentina,Uruguay,2.0,1.0,FIFA World Cup qualification,Buenos Aires,Argentina,False,1973.0,SA,South America,1,3.0,home,0,28,5
+2008-10-15,2008.0,Belgium,Spain,1.0,2.0,FIFA World Cup qualification,Brussels,Belgium,False,1633.0,EU,Europe,0,3.0,home,0,24,2
+2008-10-15,2008.0,Germany,Wales,1.0,0.0,FIFA World Cup qualification,Mönchengladbach,Germany,False,1966.0,EU,Europe,1,1.0,home,0,29,2
+2008-10-15,2008.0,Australia,Qatar,4.0,0.0,FIFA World Cup qualification,Brisbane,Australia,False,1756.0,OC,Oceania,1,4.0,home,0,19,4
+2008-10-15,2008.0,Canada,Mexico,2.0,2.0,FIFA World Cup qualification,Edmonton,Canada,False,1566.0,NA,North America,2,4.0,home,0,15,3
+2008-11-19,2008.0,Qatar,Japan,0.0,3.0,FIFA World Cup qualification,Doha,Qatar,False,1507.0,AS,Asia,0,3.0,home,0,14,1
+2008-11-19,2008.0,Saudi Arabia,South Korea,0.0,2.0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False,1650.0,AS,Asia,0,2.0,home,0,23,1
+2009-02-11,2009.0,Iran,South Korea,1.0,1.0,FIFA World Cup qualification,Tehran,Iran,False,1633.0,AS,Asia,2,2.0,home,0,23,1
+2009-02-11,2009.0,United States,Mexico,2.0,0.0,FIFA World Cup qualification,Columbus,United States,False,1803.0,NA,North America,1,2.0,home,0,15,3
+2009-02-11,2009.0,Japan,Australia,0.0,0.0,FIFA World Cup qualification,Yokohama,Japan,False,1788.0,AS,Asia,2,0.0,home,0,1,1
+2009-03-28,2009.0,Iran,Saudi Arabia,1.0,2.0,FIFA World Cup qualification,Tehran,Iran,False,1633.0,AS,Asia,0,3.0,home,0,20,1
+2009-03-28,2009.0,Mexico,Costa Rica,2.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1891.0,NA,North America,1,2.0,home,0,5,3
+2009-03-29,2009.0,Ecuador,Brazil,1.0,1.0,FIFA World Cup qualification,Quito,Ecuador,False,1722.0,SA,South America,2,2.0,home,0,3,5
+2009-04-01,2009.0,Wales,Germany,0.0,2.0,FIFA World Cup qualification,Cardiff,Wales,False,1606.0,EU,Europe,0,2.0,home,0,11,2
+2009-06-03,2009.0,Costa Rica,United States,3.0,1.0,FIFA World Cup qualification,San José,Costa Rica,False,1702.0,NA,North America,1,4.0,home,0,27,3
+2009-06-06,2009.0,Qatar,Australia,0.0,0.0,FIFA World Cup qualification,Doha,Qatar,False,1530.0,AS,Asia,2,0.0,home,0,1,1
+2009-06-06,2009.0,Uruguay,Brazil,0.0,4.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1813.0,SA,South America,0,4.0,home,0,3,5
+2009-06-10,2009.0,South Korea,Saudi Arabia,0.0,0.0,FIFA World Cup qualification,Seoul,South Korea,False,1749.0,AS,Asia,2,0.0,home,0,20,1
+2009-06-10,2009.0,Japan,Qatar,1.0,1.0,FIFA World Cup qualification,Yokohama,Japan,False,1788.0,AS,Asia,2,2.0,home,0,19,1
+2009-06-10,2009.0,Ecuador,Argentina,2.0,0.0,FIFA World Cup qualification,Quito,Ecuador,False,1722.0,SA,South America,1,2.0,home,0,0,5
+2009-06-17,2009.0,South Korea,Iran,1.0,1.0,FIFA World Cup qualification,Seoul,South Korea,False,1749.0,AS,Asia,2,2.0,home,0,13,1
+2009-06-17,2009.0,Australia,Japan,2.0,1.0,FIFA World Cup qualification,Melbourne,Australia,False,1789.0,OC,Oceania,1,3.0,home,0,14,4
+2009-08-12,2009.0,Mexico,United States,2.0,1.0,FIFA World Cup qualification,Mexico City,Mexico,False,1891.0,NA,North America,1,3.0,home,0,27,3
+2009-09-05,2009.0,Denmark,Portugal,1.0,1.0,FIFA World Cup qualification,Copenhagen,Denmark,False,1811.0,EU,Europe,2,2.0,home,0,18,2
+2009-09-05,2009.0,Argentina,Brazil,1.0,3.0,FIFA World Cup qualification,Rosario,Argentina,False,1896.0,SA,South America,0,4.0,home,0,3,5
+2009-09-05,2009.0,Spain,Belgium,5.0,0.0,FIFA World Cup qualification,La Coruña,Spain,False,2095.0,EU,Europe,1,5.0,home,0,2,2
+2009-09-05,2009.0,Costa Rica,Mexico,0.0,3.0,FIFA World Cup qualification,San José,Costa Rica,False,1702.0,NA,North America,0,3.0,home,0,15,3
+2009-09-09,2009.0,England,Croatia,5.0,1.0,FIFA World Cup qualification,London,England,False,1985.0,EU,Europe,1,6.0,home,0,6,2
+2009-09-09,2009.0,Serbia,France,1.0,1.0,FIFA World Cup qualification,Belgrade,Serbia,False,1834.0,EU,Europe,2,2.0,home,0,10,2
+2009-10-10,2009.0,Ecuador,Uruguay,1.0,2.0,FIFA World Cup qualification,Quito,Ecuador,False,1722.0,SA,South America,0,3.0,home,0,28,5
+2009-10-14,2009.0,United States,Costa Rica,2.0,2.0,FIFA World Cup qualification,Washington,United States,False,1803.0,NA,North America,2,4.0,home,0,5,3
+2009-10-14,2009.0,Uruguay,Argentina,0.0,1.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1813.0,SA,South America,0,1.0,home,0,0,5
+2009-11-14,2009.0,Costa Rica,Uruguay,0.0,1.0,FIFA World Cup qualification,San José,Costa Rica,False,1702.0,NA,North America,0,1.0,home,0,28,3
+2009-11-18,2009.0,Uruguay,Costa Rica,1.0,1.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1813.0,SA,South America,2,2.0,home,0,5,5
+2010-06-11,2010.0,Uruguay,France,0.0,0.0,FIFA World Cup,Cape Town,South Africa,True,1892.0,AF,Africa,2,0.0,neutral,1,10,0
+2010-06-12,2010.0,England,United States,1.0,1.0,FIFA World Cup,Rustenburg,South Africa,True,1924.0,AF,Africa,2,2.0,neutral,1,27,0
+2010-06-13,2010.0,Serbia,Ghana,0.0,1.0,FIFA World Cup,Pretoria,South Africa,True,1743.0,AF,Africa,0,1.0,neutral,1,12,0
+2010-06-13,2010.0,Germany,Australia,4.0,0.0,FIFA World Cup,Durban,South Africa,True,2067.0,AF,Africa,1,4.0,neutral,1,1,0
+2010-06-14,2010.0,Netherlands,Denmark,2.0,0.0,FIFA World Cup,Johannesburg,South Africa,True,2105.0,AF,Africa,1,2.0,neutral,1,7,0
+2010-06-16,2010.0,Spain,Switzerland,0.0,1.0,FIFA World Cup,Durban,South Africa,True,2116.0,AF,Africa,0,1.0,neutral,1,25,0
+2010-06-17,2010.0,France,Mexico,0.0,2.0,FIFA World Cup,Polokwane,South Africa,True,1802.0,AF,Africa,0,2.0,neutral,1,15,0
+2010-06-17,2010.0,Argentina,South Korea,4.0,1.0,FIFA World Cup,Johannesburg,South Africa,True,1992.0,AF,Africa,1,5.0,neutral,1,23,0
+2010-06-18,2010.0,Germany,Serbia,0.0,1.0,FIFA World Cup,Port Elizabeth,South Africa,True,2067.0,AF,Africa,0,1.0,neutral,1,22,0
+2010-06-19,2010.0,Ghana,Australia,1.0,1.0,FIFA World Cup,Rustenburg,South Africa,True,1742.0,AF,Africa,2,2.0,neutral,1,1,0
+2010-06-19,2010.0,Netherlands,Japan,1.0,0.0,FIFA World Cup,Durban,South Africa,True,2105.0,AF,Africa,1,1.0,neutral,1,14,0
+2010-06-22,2010.0,Mexico,Uruguay,0.0,1.0,FIFA World Cup,Rustenburg,South Africa,True,1846.0,AF,Africa,0,1.0,neutral,1,28,0
+2010-06-23,2010.0,Australia,Serbia,2.0,1.0,FIFA World Cup,Nelspruit,South Africa,True,1776.0,AF,Africa,1,3.0,neutral,1,22,0
+2010-06-23,2010.0,Ghana,Germany,0.0,1.0,FIFA World Cup,Johannesburg,South Africa,True,1742.0,AF,Africa,0,1.0,neutral,1,11,0
+2010-06-24,2010.0,Denmark,Japan,1.0,3.0,FIFA World Cup,Rustenburg,South Africa,True,1733.0,AF,Africa,0,4.0,neutral,1,14,0
+2010-06-25,2010.0,Portugal,Brazil,0.0,0.0,FIFA World Cup,Durban,South Africa,True,1897.0,AF,Africa,2,0.0,neutral,1,3,0
+2010-06-26,2010.0,Uruguay,South Korea,2.0,1.0,FIFA World Cup,Port Elizabeth,South Africa,True,1892.0,AF,Africa,1,3.0,neutral,1,23,0
+2010-06-26,2010.0,United States,Ghana,1.0,2.0,FIFA World Cup,Rustenburg,South Africa,True,1767.0,AF,Africa,0,3.0,neutral,1,12,0
+2010-06-27,2010.0,Germany,England,4.0,1.0,FIFA World Cup,Bloemfontein,South Africa,True,2067.0,AF,Africa,1,5.0,neutral,1,9,0
+2010-06-27,2010.0,Argentina,Mexico,3.0,1.0,FIFA World Cup,Johannesburg,South Africa,True,1992.0,AF,Africa,1,4.0,neutral,1,15,0
+2010-06-29,2010.0,Spain,Portugal,1.0,0.0,FIFA World Cup,Cape Town,South Africa,True,2116.0,AF,Africa,1,1.0,neutral,1,18,0
+2010-07-02,2010.0,Uruguay,Ghana,1.0,1.0,FIFA World Cup,Johannesburg,South Africa,True,1892.0,AF,Africa,2,2.0,neutral,1,12,0
+2010-07-02,2010.0,Netherlands,Brazil,2.0,1.0,FIFA World Cup,Port Elizabeth,South Africa,True,2105.0,AF,Africa,1,3.0,neutral,1,3,0
+2010-07-03,2010.0,Argentina,Germany,0.0,4.0,FIFA World Cup,Cape Town,South Africa,True,1992.0,AF,Africa,0,4.0,neutral,1,11,0
+2010-07-06,2010.0,Uruguay,Netherlands,2.0,3.0,FIFA World Cup,Cape Town,South Africa,True,1892.0,AF,Africa,0,5.0,neutral,1,16,0
+2010-07-07,2010.0,Germany,Spain,0.0,1.0,FIFA World Cup,Durban,South Africa,True,2067.0,AF,Africa,0,1.0,neutral,1,24,0
+2010-07-10,2010.0,Uruguay,Germany,2.0,3.0,FIFA World Cup,Port Elizabeth,South Africa,True,1892.0,AF,Africa,0,5.0,neutral,1,11,0
+2010-07-11,2010.0,Netherlands,Spain,0.0,1.0,FIFA World Cup,Johannesburg,South Africa,True,2105.0,AF,Africa,0,1.0,neutral,1,24,0
+2011-09-06,2011.0,Saudi Arabia,Australia,1.0,3.0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False,1557.0,AS,Asia,0,4.0,home,0,1,1
+2011-09-06,2011.0,Qatar,Iran,1.0,1.0,FIFA World Cup qualification,Doha,Qatar,False,1501.0,AS,Asia,2,2.0,home,0,13,1
+2012-02-29,2012.0,Australia,Saudi Arabia,4.0,2.0,FIFA World Cup qualification,Melbourne,Australia,False,1774.0,OC,Oceania,1,6.0,home,0,20,4
+2012-02-29,2012.0,Iran,Qatar,2.0,2.0,FIFA World Cup qualification,Tehran,Iran,False,1656.0,AS,Asia,2,4.0,home,0,19,1
+2012-06-02,2012.0,Argentina,Ecuador,4.0,0.0,FIFA World Cup qualification,Buenos Aires,Argentina,False,2014.0,SA,South America,1,4.0,home,0,8,5
+2012-06-08,2012.0,Qatar,South Korea,1.0,4.0,FIFA World Cup qualification,Doha,Qatar,False,1477.0,AS,Asia,0,5.0,home,0,23,1
+2012-06-12,2012.0,Australia,Japan,1.0,1.0,FIFA World Cup qualification,Brisbane,Australia,False,1774.0,OC,Oceania,2,2.0,home,0,14,4
+2012-06-12,2012.0,Iran,Qatar,0.0,0.0,FIFA World Cup qualification,Tehran,Iran,False,1656.0,AS,Asia,2,0.0,home,0,19,1
+2012-09-07,2012.0,Costa Rica,Mexico,0.0,2.0,FIFA World Cup qualification,San José,Costa Rica,False,1667.0,NA,North America,0,2.0,home,0,15,3
+2012-09-07,2012.0,Wales,Belgium,0.0,2.0,FIFA World Cup qualification,Cardiff,Wales,False,1580.0,EU,Europe,0,2.0,home,0,2,2
+2012-09-11,2012.0,Uruguay,Ecuador,1.0,1.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1856.0,SA,South America,2,2.0,home,0,8,5
+2012-09-11,2012.0,Serbia,Wales,6.0,1.0,FIFA World Cup qualification,Novi Sad,Serbia,False,1684.0,EU,Europe,1,7.0,home,0,29,2
+2012-09-11,2012.0,Mexico,Costa Rica,1.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1916.0,NA,North America,1,1.0,home,0,5,3
+2012-09-11,2012.0,Belgium,Croatia,1.0,1.0,FIFA World Cup qualification,Brussels,Belgium,False,1786.0,EU,Europe,2,2.0,home,0,6,2
+2012-10-12,2012.0,Serbia,Belgium,0.0,3.0,FIFA World Cup qualification,Belgrade,Serbia,False,1684.0,EU,Europe,0,3.0,home,0,2,2
+2012-10-12,2012.0,Argentina,Uruguay,3.0,0.0,FIFA World Cup qualification,Mendoza,Argentina,False,2014.0,SA,South America,1,3.0,home,0,28,5
+2012-10-16,2012.0,Spain,France,1.0,1.0,FIFA World Cup qualification,Madrid,Spain,False,2150.0,EU,Europe,2,2.0,home,0,10,2
+2012-10-16,2012.0,Iran,South Korea,1.0,0.0,FIFA World Cup qualification,Tehran,Iran,False,1656.0,AS,Asia,1,1.0,home,0,23,1
+2012-10-16,2012.0,Croatia,Wales,2.0,0.0,FIFA World Cup qualification,Osijek,Croatia,False,1880.0,EU,Europe,1,2.0,home,0,29,2
+2012-10-17,2012.0,Poland,England,1.0,1.0,FIFA World Cup qualification,Warsaw,Poland,False,1704.0,EU,Europe,2,2.0,home,0,9,2
+2013-03-22,2013.0,Croatia,Serbia,2.0,0.0,FIFA World Cup qualification,Zagreb,Croatia,False,1806.0,EU,Europe,1,2.0,home,0,22,2
+2013-03-22,2013.0,United States,Costa Rica,1.0,0.0,FIFA World Cup qualification,Commerce City,United States,False,1862.0,NA,North America,1,1.0,home,0,5,3
+2013-03-26,2013.0,South Korea,Qatar,2.0,1.0,FIFA World Cup qualification,Seoul,South Korea,False,1685.0,AS,Asia,1,3.0,home,0,19,1
+2013-03-26,2013.0,Wales,Croatia,1.0,2.0,FIFA World Cup qualification,Swansea,Wales,False,1586.0,EU,Europe,0,3.0,home,0,6,2
+2013-03-26,2013.0,France,Spain,0.0,1.0,FIFA World Cup qualification,Saint-Denis,France,False,1881.0,EU,Europe,0,1.0,home,0,24,2
+2013-03-26,2013.0,Mexico,United States,0.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1797.0,NA,North America,2,0.0,home,0,27,3
+2013-06-04,2013.0,Qatar,Iran,0.0,1.0,FIFA World Cup qualification,Doha,Qatar,False,1500.0,AS,Asia,0,1.0,home,0,13,1
+2013-06-04,2013.0,Japan,Australia,1.0,1.0,FIFA World Cup qualification,Saitama,Japan,False,1764.0,AS,Asia,2,2.0,home,0,1,1
+2013-06-07,2013.0,Belgium,Serbia,2.0,1.0,FIFA World Cup qualification,Brussels,Belgium,False,1835.0,EU,Europe,1,3.0,home,0,22,2
+2013-06-11,2013.0,Ecuador,Argentina,1.0,1.0,FIFA World Cup qualification,Quito,Ecuador,False,1837.0,SA,South America,2,2.0,home,0,0,5
+2013-06-11,2013.0,Mexico,Costa Rica,0.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1797.0,NA,North America,2,0.0,home,0,5,3
+2013-06-18,2013.0,South Korea,Iran,0.0,1.0,FIFA World Cup qualification,Ulsan,South Korea,False,1685.0,AS,Asia,0,1.0,home,0,13,1
+2013-09-06,2013.0,Costa Rica,United States,3.0,1.0,FIFA World Cup qualification,San José,Costa Rica,False,1735.0,NA,North America,1,4.0,home,0,27,3
+2013-09-06,2013.0,Serbia,Croatia,1.0,1.0,FIFA World Cup qualification,Belgrade,Serbia,False,1753.0,EU,Europe,2,2.0,home,0,6,2
+2013-09-10,2013.0,United States,Mexico,2.0,0.0,FIFA World Cup qualification,Columbus,United States,False,1862.0,NA,North America,1,2.0,home,0,15,3
+2013-09-10,2013.0,Wales,Serbia,0.0,3.0,FIFA World Cup qualification,Cardiff,Wales,False,1586.0,EU,Europe,0,3.0,home,0,22,2
+2013-10-11,2013.0,Croatia,Belgium,1.0,2.0,FIFA World Cup qualification,Zagreb,Croatia,False,1806.0,EU,Europe,0,3.0,home,0,2,2
+2013-10-11,2013.0,Ecuador,Uruguay,1.0,0.0,FIFA World Cup qualification,Quito,Ecuador,False,1837.0,SA,South America,1,1.0,home,0,28,5
+2013-10-15,2013.0,Uruguay,Argentina,3.0,2.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1919.0,SA,South America,1,5.0,home,0,0,5
+2013-10-15,2013.0,England,Poland,2.0,0.0,FIFA World Cup qualification,London,England,False,1933.0,EU,Europe,1,2.0,home,0,17,2
+2013-10-15,2013.0,Costa Rica,Mexico,2.0,1.0,FIFA World Cup qualification,San José,Costa Rica,False,1735.0,NA,North America,1,3.0,home,0,15,3
+2013-10-15,2013.0,Belgium,Wales,1.0,1.0,FIFA World Cup qualification,Brussels,Belgium,False,1835.0,EU,Europe,2,2.0,home,0,29,2
+2014-06-12,2014.0,Brazil,Croatia,3.0,1.0,FIFA World Cup,São Paulo,Brazil,False,2042.0,SA,South America,1,4.0,home,0,6,5
+2014-06-13,2014.0,Spain,Netherlands,1.0,5.0,FIFA World Cup,Salvador,Brazil,True,1954.0,SA,South America,0,6.0,neutral,1,16,5
+2014-06-14,2014.0,Uruguay,Costa Rica,1.0,3.0,FIFA World Cup,Fortaleza,Brazil,True,1908.0,SA,South America,0,4.0,neutral,1,5,5
+2014-06-15,2014.0,Switzerland,Ecuador,2.0,1.0,FIFA World Cup,Brasília,Brazil,True,1793.0,SA,South America,1,3.0,neutral,1,8,5
+2014-06-16,2014.0,Germany,Portugal,4.0,0.0,FIFA World Cup,Salvador,Brazil,True,2134.0,SA,South America,1,4.0,neutral,1,18,5
+2014-06-16,2014.0,Ghana,United States,1.0,2.0,FIFA World Cup,Natal,Brazil,True,1683.0,SA,South America,0,3.0,neutral,1,27,5
+2014-06-17,2014.0,Brazil,Mexico,0.0,0.0,FIFA World Cup,Fortaleza,Brazil,False,2042.0,SA,South America,2,0.0,home,0,15,5
+2014-06-18,2014.0,Australia,Netherlands,2.0,3.0,FIFA World Cup,Curitiba,Brazil,True,1653.0,SA,South America,0,5.0,neutral,1,16,5
+2014-06-19,2014.0,Uruguay,England,2.0,1.0,FIFA World Cup,São Paulo,Brazil,True,1908.0,SA,South America,1,3.0,neutral,1,9,5
+2014-06-20,2014.0,Switzerland,France,2.0,5.0,FIFA World Cup,Salvador,Brazil,True,1793.0,SA,South America,0,7.0,neutral,1,10,5
+2014-06-21,2014.0,Argentina,Iran,1.0,0.0,FIFA World Cup,Belo Horizonte,Brazil,True,2050.0,SA,South America,1,1.0,neutral,1,13,5
+2014-06-21,2014.0,Germany,Ghana,2.0,2.0,FIFA World Cup,Fortaleza,Brazil,True,2134.0,SA,South America,2,4.0,neutral,1,12,5
+2014-06-22,2014.0,United States,Portugal,2.0,2.0,FIFA World Cup,Manaus,Brazil,True,1813.0,SA,South America,2,4.0,neutral,1,18,5
+2014-06-23,2014.0,Australia,Spain,0.0,3.0,FIFA World Cup,Curitiba,Brazil,True,1653.0,SA,South America,0,3.0,neutral,1,24,5
+2014-06-23,2014.0,Croatia,Mexico,1.0,3.0,FIFA World Cup,Recife,Brazil,True,1825.0,SA,South America,0,4.0,neutral,1,15,5
+2014-06-24,2014.0,Costa Rica,England,0.0,0.0,FIFA World Cup,Belo Horizonte,Brazil,True,1866.0,SA,South America,2,0.0,neutral,1,9,5
+2014-06-25,2014.0,Ecuador,France,0.0,0.0,FIFA World Cup,Rio de Janeiro,Brazil,True,1847.0,SA,South America,2,0.0,neutral,1,10,5
+2014-06-26,2014.0,Portugal,Ghana,2.0,1.0,FIFA World Cup,Brasília,Brazil,True,1910.0,SA,South America,1,3.0,neutral,1,12,5
+2014-06-26,2014.0,South Korea,Belgium,0.0,1.0,FIFA World Cup,São Paulo,Brazil,True,1634.0,SA,South America,0,1.0,neutral,1,2,5
+2014-06-26,2014.0,United States,Germany,0.0,1.0,FIFA World Cup,Recife,Brazil,True,1813.0,SA,South America,0,1.0,neutral,1,11,5
+2014-06-29,2014.0,Netherlands,Mexico,2.0,1.0,FIFA World Cup,Fortaleza,Brazil,True,2030.0,SA,South America,1,3.0,neutral,1,15,5
+2014-07-01,2014.0,Belgium,United States,2.0,1.0,FIFA World Cup,Salvador,Brazil,True,1898.0,SA,South America,1,3.0,neutral,1,27,5
+2014-07-01,2014.0,Argentina,Switzerland,1.0,0.0,FIFA World Cup,São Paulo,Brazil,True,2050.0,SA,South America,1,1.0,neutral,1,25,5
+2014-07-04,2014.0,France,Germany,0.0,1.0,FIFA World Cup,Rio de Janeiro,Brazil,True,1966.0,SA,South America,0,1.0,neutral,1,11,5
+2014-07-05,2014.0,Argentina,Belgium,1.0,0.0,FIFA World Cup,Brasília,Brazil,True,2050.0,SA,South America,1,1.0,neutral,1,2,5
+2014-07-05,2014.0,Netherlands,Costa Rica,0.0,0.0,FIFA World Cup,Salvador,Brazil,True,2030.0,SA,South America,2,0.0,neutral,1,5,5
+2014-07-08,2014.0,Brazil,Germany,1.0,7.0,FIFA World Cup,Belo Horizonte,Brazil,False,2042.0,SA,South America,0,8.0,home,0,11,5
+2014-07-09,2014.0,Netherlands,Argentina,0.0,0.0,FIFA World Cup,São Paulo,Brazil,True,2030.0,SA,South America,2,0.0,neutral,1,0,5
+2014-07-12,2014.0,Brazil,Netherlands,0.0,3.0,FIFA World Cup,Brasília,Brazil,False,2042.0,SA,South America,0,3.0,home,0,16,5
+2014-07-13,2014.0,Germany,Argentina,1.0,0.0,FIFA World Cup,Rio de Janeiro,Brazil,True,2134.0,SA,South America,1,1.0,neutral,1,0,5
+2015-10-08,2015.0,Argentina,Ecuador,0.0,2.0,FIFA World Cup qualification,Buenos Aires,Argentina,False,2023.0,SA,South America,0,2.0,home,0,8,5
+2015-11-12,2015.0,Ecuador,Uruguay,2.0,1.0,FIFA World Cup qualification,Quito,Ecuador,False,1915.0,SA,South America,1,3.0,home,0,28,5
+2015-11-13,2015.0,Argentina,Brazil,1.0,1.0,FIFA World Cup qualification,Buenos Aires,Argentina,False,2023.0,SA,South America,2,2.0,home,0,3,5
+2016-03-25,2016.0,Brazil,Uruguay,2.0,2.0,FIFA World Cup qualification,Recife,Brazil,False,2087.0,SA,South America,2,4.0,home,0,28,5
+2016-03-25,2016.0,Canada,Mexico,0.0,3.0,FIFA World Cup qualification,Vancouver,Canada,False,1517.0,NA,North America,0,3.0,home,0,15,3
+2016-03-29,2016.0,Mexico,Canada,2.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1911.0,NA,North America,1,2.0,home,0,4,3
+2016-09-01,2016.0,Iran,Qatar,2.0,0.0,FIFA World Cup qualification,Tehran,Iran,False,1774.0,AS,Asia,1,2.0,home,0,19,1
+2016-09-01,2016.0,Argentina,Uruguay,1.0,0.0,FIFA World Cup qualification,Mendoza,Argentina,False,2045.0,SA,South America,1,1.0,home,0,28,5
+2016-09-01,2016.0,Ecuador,Brazil,0.0,3.0,FIFA World Cup qualification,Quito,Ecuador,False,1850.0,SA,South America,0,3.0,home,0,3,5
+2016-09-06,2016.0,Switzerland,Portugal,2.0,0.0,FIFA World Cup qualification,Basel,Switzerland,False,1857.0,EU,Europe,1,2.0,home,0,18,2
+2016-10-06,2016.0,Saudi Arabia,Australia,2.0,2.0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False,1578.0,AS,Asia,2,4.0,home,0,1,1
+2016-10-06,2016.0,South Korea,Qatar,3.0,2.0,FIFA World Cup qualification,Suwon,South Korea,False,1788.0,AS,Asia,1,5.0,home,0,19,1
+2016-10-08,2016.0,Poland,Denmark,3.0,2.0,FIFA World Cup qualification,Warsaw,Poland,False,1851.0,EU,Europe,1,5.0,home,0,7,2
+2016-10-10,2016.0,Netherlands,France,0.0,1.0,FIFA World Cup qualification,Amsterdam,Netherlands,False,1889.0,EU,Europe,0,1.0,home,0,10,2
+2016-10-11,2016.0,Iran,South Korea,1.0,0.0,FIFA World Cup qualification,Tehran,Iran,False,1774.0,AS,Asia,1,1.0,home,0,23,1
+2016-10-11,2016.0,Australia,Japan,1.0,1.0,FIFA World Cup qualification,Melbourne,Australia,False,1709.0,OC,Oceania,2,2.0,home,0,14,4
+2016-11-10,2016.0,Uruguay,Ecuador,2.0,1.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1915.0,SA,South America,1,3.0,home,0,8,5
+2016-11-10,2016.0,Brazil,Argentina,3.0,0.0,FIFA World Cup qualification,Belo Horizonte,Brazil,False,2087.0,SA,South America,1,3.0,home,0,0,5
+2016-11-11,2016.0,United States,Mexico,1.0,2.0,FIFA World Cup qualification,Columbus,United States,False,1735.0,NA,North America,0,3.0,home,0,15,3
+2016-11-12,2016.0,Wales,Serbia,1.0,1.0,FIFA World Cup qualification,Cardiff,Wales,False,1760.0,EU,Europe,2,2.0,home,0,22,2
+2016-11-15,2016.0,Japan,Saudi Arabia,2.0,1.0,FIFA World Cup qualification,Saitama,Japan,False,1753.0,AS,Asia,1,3.0,home,0,20,1
+2016-11-15,2016.0,Costa Rica,United States,4.0,0.0,FIFA World Cup qualification,San José,Costa Rica,False,1854.0,NA,North America,1,4.0,home,0,27,3
+2017-03-23,2017.0,Uruguay,Brazil,1.0,4.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1866.0,SA,South America,0,5.0,home,0,3,5
+2017-03-23,2017.0,Qatar,Iran,0.0,1.0,FIFA World Cup qualification,Doha,Qatar,False,1464.0,AS,Asia,0,1.0,home,0,13,1
+2017-03-24,2017.0,Mexico,Costa Rica,2.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1848.0,NA,North America,1,2.0,home,0,5,3
+2017-06-08,2017.0,Australia,Saudi Arabia,3.0,2.0,FIFA World Cup qualification,Adelaide,Australia,False,1727.0,OC,Oceania,1,5.0,home,0,20,4
+2017-06-11,2017.0,Serbia,Wales,1.0,1.0,FIFA World Cup qualification,Belgrade,Serbia,False,1769.0,EU,Europe,2,2.0,home,0,29,2
+2017-06-11,2017.0,Mexico,United States,1.0,1.0,FIFA World Cup qualification,Mexico City,Mexico,False,1848.0,NA,North America,2,2.0,home,0,27,3
+2017-06-13,2017.0,Qatar,South Korea,3.0,2.0,FIFA World Cup qualification,Doha,Qatar,False,1464.0,AS,Asia,1,5.0,home,0,23,1
+2017-08-31,2017.0,Uruguay,Argentina,0.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1866.0,SA,South America,2,0.0,home,0,0,5
+2017-08-31,2017.0,France,Netherlands,4.0,0.0,FIFA World Cup qualification,Saint-Denis,France,False,1989.0,EU,Europe,1,4.0,home,0,16,2
+2017-08-31,2017.0,Brazil,Ecuador,2.0,0.0,FIFA World Cup qualification,Porto Alegre,Brazil,False,2113.0,SA,South America,1,2.0,home,0,8,5
+2017-08-31,2017.0,Japan,Australia,2.0,0.0,FIFA World Cup qualification,Saitama,Japan,False,1706.0,AS,Asia,1,2.0,home,0,1,1
+2017-08-31,2017.0,South Korea,Iran,0.0,0.0,FIFA World Cup qualification,Seoul,South Korea,False,1760.0,AS,Asia,2,0.0,home,0,13,1
+2017-09-01,2017.0,Denmark,Poland,4.0,0.0,FIFA World Cup qualification,Copenhagen,Denmark,False,1842.0,EU,Europe,1,4.0,home,0,17,2
+2017-09-01,2017.0,United States,Costa Rica,0.0,2.0,FIFA World Cup qualification,Harrison,United States,False,1751.0,NA,North America,0,2.0,home,0,5,3
+2017-09-05,2017.0,Costa Rica,Mexico,1.0,1.0,FIFA World Cup qualification,San José,Costa Rica,False,1745.0,NA,North America,2,2.0,home,0,15,3
+2017-09-05,2017.0,Saudi Arabia,Japan,1.0,0.0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False,1568.0,AS,Asia,1,1.0,home,0,14,1
+2017-10-10,2017.0,Portugal,Switzerland,2.0,0.0,FIFA World Cup qualification,Lisbon,Portugal,False,1994.0,EU,Europe,1,2.0,home,0,25,2
+2017-10-10,2017.0,Ecuador,Argentina,1.0,3.0,FIFA World Cup qualification,Quito,Ecuador,False,1747.0,SA,South America,0,4.0,home,0,0,5
+2018-06-15,2018.0,Portugal,Spain,3.0,3.0,FIFA World Cup,Sochi,Russia,True,1959.0,EU,Europe,2,6.0,neutral,1,24,2
+2018-06-16,2018.0,France,Australia,2.0,1.0,FIFA World Cup,Kazan,Russia,True,2094.0,EU,Europe,1,3.0,neutral,1,1,2
+2018-06-17,2018.0,Germany,Mexico,0.0,1.0,FIFA World Cup,Moscow,Russia,True,1938.0,EU,Europe,0,1.0,neutral,1,15,2
+2018-06-17,2018.0,Costa Rica,Serbia,0.0,1.0,FIFA World Cup,Samara,Russia,True,1724.0,EU,Europe,0,1.0,neutral,1,22,2
+2018-06-17,2018.0,Brazil,Switzerland,1.0,1.0,FIFA World Cup,Rostov-on-Don,Russia,True,2136.0,EU,Europe,2,2.0,neutral,1,25,2
+2018-06-18,2018.0,Tunisia,England,1.0,2.0,FIFA World Cup,Volgograd,Russia,True,1649.0,EU,Europe,0,3.0,neutral,1,9,2
+2018-06-19,2018.0,Poland,Senegal,1.0,2.0,FIFA World Cup,Moscow,Russia,True,1752.0,EU,Europe,0,3.0,neutral,1,21,2
+2018-06-20,2018.0,Uruguay,Saudi Arabia,1.0,0.0,FIFA World Cup,Rostov-on-Don,Russia,True,1923.0,EU,Europe,1,1.0,neutral,1,20,2
+2018-06-20,2018.0,Iran,Spain,0.0,1.0,FIFA World Cup,Kazan,Russia,True,1823.0,EU,Europe,0,1.0,neutral,1,24,2
+2018-06-21,2018.0,Denmark,Australia,1.0,1.0,FIFA World Cup,Samara,Russia,True,1898.0,EU,Europe,2,2.0,neutral,1,1,2
+2018-06-21,2018.0,Argentina,Croatia,0.0,3.0,FIFA World Cup,Nizhny Novgorod,Russia,True,1915.0,EU,Europe,0,3.0,neutral,1,6,2
+2018-06-22,2018.0,Serbia,Switzerland,1.0,2.0,FIFA World Cup,Kaliningrad,Russia,True,1807.0,EU,Europe,0,3.0,neutral,1,25,2
+2018-06-22,2018.0,Brazil,Costa Rica,2.0,0.0,FIFA World Cup,Saint Petersburg,Russia,True,2136.0,EU,Europe,1,2.0,neutral,1,5,2
+2018-06-23,2018.0,South Korea,Mexico,1.0,2.0,FIFA World Cup,Rostov-on-Don,Russia,True,1778.0,EU,Europe,0,3.0,neutral,1,15,2
+2018-06-23,2018.0,Belgium,Tunisia,5.0,2.0,FIFA World Cup,Moscow,Russia,True,2035.0,EU,Europe,1,7.0,neutral,1,26,2
+2018-06-24,2018.0,Japan,Senegal,2.0,2.0,FIFA World Cup,Ekaterinburg,Russia,True,1731.0,EU,Europe,2,4.0,neutral,1,21,2
+2018-06-25,2018.0,Iran,Portugal,1.0,1.0,FIFA World Cup,Saransk,Russia,True,1823.0,EU,Europe,2,2.0,neutral,1,18,2
+2018-06-26,2018.0,Denmark,France,0.0,0.0,FIFA World Cup,Moscow,Russia,True,1898.0,EU,Europe,2,0.0,neutral,1,10,2
+2018-06-27,2018.0,Serbia,Brazil,0.0,2.0,FIFA World Cup,Moscow,Russia,True,1807.0,EU,Europe,0,2.0,neutral,1,3,2
+2018-06-27,2018.0,South Korea,Germany,2.0,0.0,FIFA World Cup,Kazan,Russia,True,1778.0,EU,Europe,1,2.0,neutral,1,11,2
+2018-06-27,2018.0,Switzerland,Costa Rica,2.0,2.0,FIFA World Cup,Nizhny Novgorod,Russia,True,1922.0,EU,Europe,2,4.0,neutral,1,5,2
+2018-06-28,2018.0,Japan,Poland,0.0,1.0,FIFA World Cup,Volgograd,Russia,True,1731.0,EU,Europe,0,1.0,neutral,1,17,2
+2018-06-28,2018.0,England,Belgium,0.0,1.0,FIFA World Cup,Kaliningrad,Russia,True,1960.0,EU,Europe,0,1.0,neutral,1,2,2
+2018-06-30,2018.0,France,Argentina,4.0,3.0,FIFA World Cup,Kazan,Russia,True,2094.0,EU,Europe,1,7.0,neutral,1,0,2
+2018-06-30,2018.0,Uruguay,Portugal,2.0,1.0,FIFA World Cup,Sochi,Russia,True,1923.0,EU,Europe,1,3.0,neutral,1,18,2
+2018-07-01,2018.0,Croatia,Denmark,1.0,1.0,FIFA World Cup,Nizhny Novgorod,Russia,True,1925.0,EU,Europe,2,2.0,neutral,1,7,2
+2018-07-02,2018.0,Brazil,Mexico,2.0,0.0,FIFA World Cup,Samara,Russia,True,2136.0,EU,Europe,1,2.0,neutral,1,15,2
+2018-07-02,2018.0,Belgium,Japan,3.0,2.0,FIFA World Cup,Rostov-on-Don,Russia,True,2035.0,EU,Europe,1,5.0,neutral,1,14,2
+2018-07-06,2018.0,Uruguay,France,0.0,2.0,FIFA World Cup,Nizhny Novgorod,Russia,True,1923.0,EU,Europe,0,2.0,neutral,1,10,2
+2018-07-06,2018.0,Brazil,Belgium,1.0,2.0,FIFA World Cup,Kazan,Russia,True,2136.0,EU,Europe,0,3.0,neutral,1,2,2
+2018-07-10,2018.0,France,Belgium,1.0,0.0,FIFA World Cup,Saint Petersburg,Russia,True,2094.0,EU,Europe,1,1.0,neutral,1,2,2
+2018-07-11,2018.0,Croatia,England,2.0,1.0,FIFA World Cup,Moscow,Russia,True,1925.0,EU,Europe,1,3.0,neutral,1,9,2
+2018-07-14,2018.0,Belgium,England,2.0,0.0,FIFA World Cup,Saint Petersburg,Russia,True,2035.0,EU,Europe,1,2.0,neutral,1,9,2
+2018-07-15,2018.0,France,Croatia,4.0,2.0,FIFA World Cup,Moscow,Russia,True,2094.0,EU,Europe,1,6.0,neutral,1,6,2
+2020-10-08,2020.0,Argentina,Ecuador,1.0,0.0,FIFA World Cup qualification,Buenos Aires,Argentina,False,1991.0,SA,South America,1,1.0,home,0,8,5
+2020-10-13,2020.0,Ecuador,Uruguay,4.0,2.0,FIFA World Cup qualification,Quito,Ecuador,False,1826.0,SA,South America,1,6.0,home,0,28,5
+2020-11-17,2020.0,Uruguay,Brazil,0.0,2.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1954.0,SA,South America,0,2.0,home,0,3,5
+2021-03-24,2021.0,Belgium,Wales,3.0,1.0,FIFA World Cup qualification,Leuven,Belgium,False,2075.0,EU,Europe,1,4.0,home,0,29,2
+2021-03-27,2021.0,Serbia,Portugal,2.0,2.0,FIFA World Cup qualification,Belgrade,Serbia,False,1846.0,EU,Europe,2,4.0,home,0,18,2
+2021-03-31,2021.0,England,Poland,2.0,1.0,FIFA World Cup qualification,London,England,False,2032.0,EU,Europe,1,3.0,home,0,17,2
+2021-06-04,2021.0,Brazil,Ecuador,2.0,0.0,FIFA World Cup qualification,Porto Alegre,Brazil,False,2149.0,SA,South America,1,2.0,home,0,8,5
+2021-09-05,2021.0,Costa Rica,Mexico,0.0,1.0,FIFA World Cup qualification,San José,Costa Rica,False,1618.0,NA,North America,0,1.0,home,0,15,3
+2021-09-05,2021.0,United States,Canada,1.0,1.0,FIFA World Cup qualification,Nashville,United States,False,1860.0,NA,North America,2,2.0,home,0,4,3
+2021-09-08,2021.0,Poland,England,1.0,1.0,FIFA World Cup qualification,Warsaw,Poland,False,1770.0,EU,Europe,2,2.0,home,0,9,2
+2021-09-09,2021.0,Uruguay,Ecuador,1.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1848.0,SA,South America,1,1.0,home,0,8,5
+2021-10-07,2021.0,Saudi Arabia,Japan,1.0,0.0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False,1628.0,AS,Asia,1,1.0,home,0,14,1
+2021-10-07,2021.0,Mexico,Canada,1.0,1.0,FIFA World Cup qualification,Mexico City,Mexico,False,1840.0,NA,North America,2,2.0,home,0,4,3
+2021-10-10,2021.0,Argentina,Uruguay,3.0,0.0,FIFA World Cup qualification,Buenos Aires,Argentina,False,2101.0,SA,South America,1,3.0,home,0,28,5
+2021-10-12,2021.0,Japan,Australia,2.0,1.0,FIFA World Cup qualification,Saitama,Japan,False,1760.0,AS,Asia,1,3.0,home,0,1,1
+2021-10-12,2021.0,Iran,South Korea,1.0,1.0,FIFA World Cup qualification,Tehran,Iran,False,1836.0,AS,Asia,2,2.0,home,0,23,1
+2021-10-13,2021.0,United States,Costa Rica,2.0,1.0,FIFA World Cup qualification,Columbus,United States,False,1860.0,NA,North America,1,3.0,home,0,5,3
+2021-10-14,2021.0,Brazil,Uruguay,4.0,1.0,FIFA World Cup qualification,Manaus,Brazil,False,2149.0,SA,South America,1,5.0,home,0,28,5
+2021-11-11,2021.0,Australia,Saudi Arabia,0.0,0.0,FIFA World Cup qualification,Sydney,Australia,False,1733.0,OC,Oceania,2,0.0,home,0,20,4
+2021-11-12,2021.0,Canada,Costa Rica,1.0,0.0,FIFA World Cup qualification,Edmonton,Canada,False,1785.0,NA,North America,1,1.0,home,0,5,3
+2021-11-12,2021.0,United States,Mexico,2.0,0.0,FIFA World Cup qualification,Cincinnati,United States,False,1860.0,NA,North America,1,2.0,home,0,15,3
+2021-11-12,2021.0,Uruguay,Argentina,0.0,1.0,FIFA World Cup qualification,Montevideo,Uruguay,False,1848.0,SA,South America,0,1.0,home,0,0,5
+2021-11-14,2021.0,Portugal,Serbia,1.0,2.0,FIFA World Cup qualification,Lisbon,Portugal,False,1972.0,EU,Europe,0,3.0,home,0,22,2
+2021-11-16,2021.0,Wales,Belgium,1.0,1.0,FIFA World Cup qualification,Cardiff,Wales,False,1836.0,EU,Europe,2,2.0,home,0,2,2
+2021-11-16,2021.0,Argentina,Brazil,0.0,0.0,FIFA World Cup qualification,San Juan,Argentina,False,2101.0,SA,South America,2,0.0,home,0,3,5
+2021-11-16,2021.0,Canada,Mexico,2.0,1.0,FIFA World Cup qualification,Edmonton,Canada,False,1785.0,NA,North America,1,3.0,home,0,15,3
+2022-01-27,2022.0,Ecuador,Brazil,1.0,1.0,FIFA World Cup qualification,Quito,Ecuador,False,1842.0,SA,South America,2,2.0,home,0,3,5
+2022-01-30,2022.0,Mexico,Costa Rica,0.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1813.0,NA,North America,2,0.0,home,0,5,3
+2022-01-30,2022.0,Canada,United States,2.0,0.0,FIFA World Cup qualification,Hamilton,Canada,False,1712.0,NA,North America,1,2.0,home,0,27,3
+2022-02-01,2022.0,Japan,Saudi Arabia,2.0,0.0,FIFA World Cup qualification,Saitama,Japan,False,1850.0,AS,Asia,1,2.0,home,0,20,1
+2022-03-24,2022.0,Australia,Japan,0.0,2.0,FIFA World Cup qualification,Sydney,Australia,False,1772.0,OC,Oceania,0,2.0,home,0,14,4
+2022-03-24,2022.0,Mexico,United States,0.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False,1813.0,NA,North America,2,0.0,home,0,27,3
+2022-03-24,2022.0,South Korea,Iran,2.0,0.0,FIFA World Cup qualification,Seoul,South Korea,False,1788.0,AS,Asia,1,2.0,home,0,13,1
+2022-03-24,2022.0,Costa Rica,Canada,1.0,0.0,FIFA World Cup qualification,San José,Costa Rica,False,1737.0,NA,North America,1,1.0,home,0,4,3
+2022-03-29,2022.0,Saudi Arabia,Australia,1.0,0.0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False,1643.0,AS,Asia,1,1.0,home,0,1,1
+2022-03-29,2022.0,Ecuador,Argentina,1.0,1.0,FIFA World Cup qualification,Guayaquil,Ecuador,False,1842.0,SA,South America,2,2.0,home,0,0,5
+2022-03-30,2022.0,Costa Rica,United States,2.0,0.0,FIFA World Cup qualification,San José,Costa Rica,False,1737.0,NA,North America,1,2.0,home,0,27,3
